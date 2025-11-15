@@ -1,0 +1,1001 @@
+Case_ID,Date,Crime_Type,Area,Time_of_Day,Arrests_Made,Victims,Severity,Year,Month,Month_Name,Day,Day_of_Week,Quarter
+SYLHET-0001,2023-01-31,Drug-related,Jalalabad,Night,1,4,Medium,2023,1,January,31,Tuesday,1
+SYLHET-0002,2023-12-30,Assault,Sunamganj Road,Morning,0,3,Low,2023,12,December,30,Saturday,4
+SYLHET-0003,2022-05-10,Fraud,Sunamganj Road,Late Night,1,3,High,2022,5,May,10,Tuesday,2
+SYLHET-0004,2023-07-18,Robbery,Zinda Bazar,Night,0,3,Medium,2023,7,July,18,Tuesday,3
+SYLHET-0005,2023-02-04,Theft,Jalalabad,Afternoon,0,2,Low,2023,2,February,4,Saturday,1
+SYLHET-0006,2022-12-31,Theft,Rikabibazar,Night,0,3,Medium,2022,12,December,31,Saturday,4
+SYLHET-0007,2024-09-20,Burglary,Shahjalal Upashahar,Afternoon,0,2,High,2024,9,September,20,Friday,3
+SYLHET-0008,2022-11-10,Assault,Chowhatta,Night,1,2,Medium,2022,11,November,10,Thursday,4
+SYLHET-0009,2024-06-26,Burglary,Ambarkhana,Morning,1,3,High,2024,6,June,26,Wednesday,2
+SYLHET-0010,2020-05-01,Burglary,Sunamganj Road,Night,0,3,Low,2020,5,May,1,Friday,2
+SYLHET-0011,2021-04-11,Domestic Violence,Bandar Bazar,Evening,0,2,Low,2021,4,April,11,Sunday,2
+SYLHET-0012,2023-05-23,Robbery,Chowhatta,Morning,0,2,Low,2023,5,May,23,Tuesday,2
+SYLHET-0013,2020-11-26,Assault,Moglabazar,Afternoon,0,3,Medium,2020,11,November,26,Thursday,4
+SYLHET-0014,2024-01-22,Drug-related,Tilagor,Morning,0,3,Low,2024,1,January,22,Monday,1
+SYLHET-0015,2020-03-28,Burglary,Jalalabad,Evening,1,4,Low,2020,3,March,28,Saturday,1
+SYLHET-0016,2023-10-28,Assault,Pathantula,Afternoon,0,2,High,2023,10,October,28,Saturday,4
+SYLHET-0017,2023-01-28,Vandalism,Ambarkhana,Evening,0,2,High,2023,1,January,28,Saturday,1
+SYLHET-0018,2022-05-21,Domestic Violence,Bandar Bazar,Afternoon,0,4,Medium,2022,5,May,21,Saturday,2
+SYLHET-0019,2024-08-14,Theft,Chowhatta,Afternoon,0,2,Low,2024,8,August,14,Wednesday,3
+SYLHET-0020,2020-05-10,Domestic Violence,Jalalabad,Night,0,1,Low,2020,5,May,10,Sunday,2
+SYLHET-0021,2024-08-12,Assault,Zinda Bazar,Morning,1,2,Low,2024,8,August,12,Monday,3
+SYLHET-0022,2023-08-25,Robbery,Tilagor,Late Night,0,4,Medium,2023,8,August,25,Friday,3
+SYLHET-0023,2022-02-08,Burglary,Ambarkhana,Night,0,1,High,2022,2,February,8,Tuesday,1
+SYLHET-0024,2020-12-09,Cybercrime,Shahjalal Upashahar,Night,0,3,Medium,2020,12,December,9,Wednesday,4
+SYLHET-0025,2024-02-24,Assault,Zinda Bazar,Evening,0,4,Low,2024,2,February,24,Saturday,1
+SYLHET-0026,2023-12-08,Robbery,Bandar Bazar,Night,0,4,Medium,2023,12,December,8,Friday,4
+SYLHET-0027,2022-03-16,Assault,Moglabazar,Afternoon,1,3,Low,2022,3,March,16,Wednesday,1
+SYLHET-0028,2021-01-20,Robbery,Ambarkhana,Morning,1,4,Low,2021,1,January,20,Wednesday,1
+SYLHET-0029,2023-04-30,Theft,Zinda Bazar,Afternoon,0,2,Medium,2023,4,April,30,Sunday,2
+SYLHET-0030,2022-08-13,Theft,Tilagor,Night,0,3,Medium,2022,8,August,13,Saturday,3
+SYLHET-0031,2020-10-03,Theft,Shahjalal Upashahar,Morning,0,4,Low,2020,10,October,3,Saturday,4
+SYLHET-0032,2023-03-30,Theft,Zinda Bazar,Evening,0,3,Low,2023,3,March,30,Thursday,1
+SYLHET-0033,2021-04-04,Theft,Sobhani Ghat,Late Night,1,3,High,2021,4,April,4,Sunday,2
+SYLHET-0034,2023-08-30,Assault,Shahjalal Upashahar,Night,1,3,Low,2023,8,August,30,Wednesday,3
+SYLHET-0035,2020-01-22,Theft,Bandar Bazar,Evening,0,1,Low,2020,1,January,22,Wednesday,1
+SYLHET-0036,2020-09-09,Robbery,Moglabazar,Morning,0,4,Low,2020,9,September,9,Wednesday,3
+SYLHET-0037,2022-01-17,Domestic Violence,Tilagor,Night,0,1,Low,2022,1,January,17,Monday,1
+SYLHET-0038,2022-05-06,Assault,Rikabibazar,Evening,1,4,Low,2022,5,May,6,Friday,2
+SYLHET-0039,2024-05-03,Fraud,Jalalabad,Morning,1,2,High,2024,5,May,3,Friday,2
+SYLHET-0040,2021-04-19,Theft,Pathantula,Morning,0,2,Low,2021,4,April,19,Monday,2
+SYLHET-0041,2022-12-18,Theft,Pathantula,Late Night,0,2,Medium,2022,12,December,18,Sunday,4
+SYLHET-0042,2021-05-25,Theft,Pathantula,Night,1,4,Medium,2021,5,May,25,Tuesday,2
+SYLHET-0043,2024-09-01,Theft,Ambarkhana,Night,0,3,Medium,2024,9,September,1,Sunday,3
+SYLHET-0044,2024-02-08,Robbery,Bandar Bazar,Night,0,3,High,2024,2,February,8,Thursday,1
+SYLHET-0045,2021-11-30,Theft,Tilagor,Evening,0,1,High,2021,11,November,30,Tuesday,4
+SYLHET-0046,2022-09-02,Theft,Shahjalal Upashahar,Evening,1,1,Low,2022,9,September,2,Friday,3
+SYLHET-0047,2024-12-11,Theft,Ambarkhana,Evening,0,2,High,2024,12,December,11,Wednesday,4
+SYLHET-0048,2020-07-08,Burglary,Bandar Bazar,Afternoon,0,1,Medium,2020,7,July,8,Wednesday,3
+SYLHET-0049,2022-08-15,Robbery,Jalalabad,Evening,1,4,High,2022,8,August,15,Monday,3
+SYLHET-0050,2021-11-17,Burglary,Sobhani Ghat,Night,0,4,Medium,2021,11,November,17,Wednesday,4
+SYLHET-0051,2022-08-15,Assault,Tilagor,Evening,0,1,High,2022,8,August,15,Monday,3
+SYLHET-0052,2021-07-16,Fraud,Pathantula,Night,0,1,High,2021,7,July,16,Friday,3
+SYLHET-0053,2024-05-09,Theft,Zinda Bazar,Evening,0,1,Low,2024,5,May,9,Thursday,2
+SYLHET-0054,2023-06-21,Drug-related,Rikabibazar,Evening,1,1,Medium,2023,6,June,21,Wednesday,2
+SYLHET-0055,2022-04-11,Assault,Tilagor,Evening,0,2,High,2022,4,April,11,Monday,2
+SYLHET-0056,2024-03-08,Theft,Sunamganj Road,Evening,0,2,High,2024,3,March,8,Friday,1
+SYLHET-0057,2023-02-28,Vandalism,Moglabazar,Night,0,1,Low,2023,2,February,28,Tuesday,1
+SYLHET-0058,2024-02-17,Domestic Violence,Bandar Bazar,Afternoon,1,4,Medium,2024,2,February,17,Saturday,1
+SYLHET-0059,2021-10-08,Theft,Chowhatta,Evening,1,2,Low,2021,10,October,8,Friday,4
+SYLHET-0060,2020-01-21,Robbery,Jalalabad,Morning,0,4,Low,2020,1,January,21,Tuesday,1
+SYLHET-0061,2022-04-20,Drug-related,Sobhani Ghat,Afternoon,0,3,Medium,2022,4,April,20,Wednesday,2
+SYLHET-0062,2020-06-15,Fraud,Jalalabad,Evening,1,4,Low,2020,6,June,15,Monday,2
+SYLHET-0063,2023-07-21,Theft,Tilagor,Night,0,1,High,2023,7,July,21,Friday,3
+SYLHET-0064,2021-01-22,Robbery,Chowhatta,Late Night,1,3,Low,2021,1,January,22,Friday,1
+SYLHET-0065,2021-08-23,Burglary,Sunamganj Road,Evening,1,2,High,2021,8,August,23,Monday,3
+SYLHET-0066,2020-11-11,Assault,Shahjalal Upashahar,Night,1,2,Low,2020,11,November,11,Wednesday,4
+SYLHET-0067,2020-01-14,Assault,Zinda Bazar,Evening,0,3,Low,2020,1,January,14,Tuesday,1
+SYLHET-0068,2020-08-29,Burglary,Chowhatta,Evening,0,4,Low,2020,8,August,29,Saturday,3
+SYLHET-0069,2022-02-15,Burglary,Bandar Bazar,Morning,1,2,Low,2022,2,February,15,Tuesday,1
+SYLHET-0070,2023-10-01,Fraud,Pathantula,Afternoon,0,1,Low,2023,10,October,1,Sunday,4
+SYLHET-0071,2021-07-18,Theft,Sunamganj Road,Afternoon,0,3,Low,2021,7,July,18,Sunday,3
+SYLHET-0072,2022-06-16,Robbery,Zinda Bazar,Evening,1,1,Medium,2022,6,June,16,Thursday,2
+SYLHET-0073,2023-09-25,Fraud,Rikabibazar,Morning,1,3,Low,2023,9,September,25,Monday,3
+SYLHET-0074,2020-04-01,Domestic Violence,Sobhani Ghat,Morning,0,2,Medium,2020,4,April,1,Wednesday,2
+SYLHET-0075,2023-10-22,Assault,Pathantula,Afternoon,0,4,Low,2023,10,October,22,Sunday,4
+SYLHET-0076,2022-08-13,Assault,Tilagor,Late Night,0,3,High,2022,8,August,13,Saturday,3
+SYLHET-0077,2024-01-18,Theft,Chowhatta,Afternoon,1,3,High,2024,1,January,18,Thursday,1
+SYLHET-0078,2023-12-22,Burglary,Zinda Bazar,Evening,1,1,Medium,2023,12,December,22,Friday,4
+SYLHET-0079,2021-05-23,Assault,Moglabazar,Afternoon,0,2,Low,2021,5,May,23,Sunday,2
+SYLHET-0080,2022-02-14,Robbery,Ambarkhana,Evening,0,1,Low,2022,2,February,14,Monday,1
+SYLHET-0081,2020-02-04,Robbery,Moglabazar,Afternoon,1,2,High,2020,2,February,4,Tuesday,1
+SYLHET-0082,2020-07-24,Burglary,Shahjalal Upashahar,Afternoon,0,1,Low,2020,7,July,24,Friday,3
+SYLHET-0083,2023-01-09,Theft,Moglabazar,Evening,0,3,Low,2023,1,January,9,Monday,1
+SYLHET-0084,2024-05-04,Robbery,Rikabibazar,Morning,1,1,Low,2024,5,May,4,Saturday,2
+SYLHET-0085,2023-11-12,Robbery,Shahjalal Upashahar,Morning,0,4,Low,2023,11,November,12,Sunday,4
+SYLHET-0086,2022-10-22,Robbery,Sunamganj Road,Afternoon,1,2,Low,2022,10,October,22,Saturday,4
+SYLHET-0087,2022-10-18,Theft,Sobhani Ghat,Morning,0,2,High,2022,10,October,18,Tuesday,4
+SYLHET-0088,2023-11-14,Domestic Violence,Sunamganj Road,Morning,0,3,Low,2023,11,November,14,Tuesday,4
+SYLHET-0089,2021-07-19,Assault,Ambarkhana,Afternoon,1,2,Medium,2021,7,July,19,Monday,3
+SYLHET-0090,2023-02-03,Fraud,Bandar Bazar,Night,0,4,Low,2023,2,February,3,Friday,1
+SYLHET-0091,2024-11-30,Drug-related,Sobhani Ghat,Evening,1,1,Low,2024,11,November,30,Saturday,4
+SYLHET-0092,2024-02-09,Assault,Moglabazar,Evening,0,3,High,2024,2,February,9,Friday,1
+SYLHET-0093,2021-12-03,Theft,Jalalabad,Afternoon,0,4,Low,2021,12,December,3,Friday,4
+SYLHET-0094,2021-02-05,Assault,Bandar Bazar,Late Night,0,2,High,2021,2,February,5,Friday,1
+SYLHET-0095,2021-12-30,Assault,Sobhani Ghat,Afternoon,0,2,Medium,2021,12,December,30,Thursday,4
+SYLHET-0096,2024-04-28,Fraud,Sobhani Ghat,Morning,0,4,Low,2024,4,April,28,Sunday,2
+SYLHET-0097,2020-06-10,Burglary,Ambarkhana,Evening,0,1,High,2020,6,June,10,Wednesday,2
+SYLHET-0098,2020-07-20,Theft,Tilagor,Morning,0,1,Low,2020,7,July,20,Monday,3
+SYLHET-0099,2022-09-22,Robbery,Moglabazar,Afternoon,0,3,High,2022,9,September,22,Thursday,3
+SYLHET-0100,2020-09-26,Burglary,Ambarkhana,Evening,1,2,Low,2020,9,September,26,Saturday,3
+SYLHET-0101,2022-03-26,Assault,Sobhani Ghat,Night,1,4,High,2022,3,March,26,Saturday,1
+SYLHET-0102,2023-07-18,Assault,Zinda Bazar,Evening,1,1,Low,2023,7,July,18,Tuesday,3
+SYLHET-0103,2021-03-31,Burglary,Bandar Bazar,Night,0,3,Medium,2021,3,March,31,Wednesday,1
+SYLHET-0104,2024-01-25,Cybercrime,Ambarkhana,Late Night,0,2,High,2024,1,January,25,Thursday,1
+SYLHET-0105,2024-10-16,Assault,Tilagor,Morning,1,2,High,2024,10,October,16,Wednesday,4
+SYLHET-0106,2023-06-29,Robbery,Chowhatta,Afternoon,0,3,High,2023,6,June,29,Thursday,2
+SYLHET-0107,2022-10-13,Theft,Sunamganj Road,Afternoon,0,3,High,2022,10,October,13,Thursday,4
+SYLHET-0108,2024-09-21,Theft,Sobhani Ghat,Evening,1,1,High,2024,9,September,21,Saturday,3
+SYLHET-0109,2020-10-22,Robbery,Moglabazar,Evening,1,4,Low,2020,10,October,22,Thursday,4
+SYLHET-0110,2024-10-14,Theft,Jalalabad,Late Night,0,2,Low,2024,10,October,14,Monday,4
+SYLHET-0111,2021-12-20,Theft,Chowhatta,Night,0,4,Low,2021,12,December,20,Monday,4
+SYLHET-0112,2024-11-07,Robbery,Shahjalal Upashahar,Evening,1,2,Low,2024,11,November,7,Thursday,4
+SYLHET-0113,2020-12-03,Theft,Pathantula,Afternoon,0,2,Low,2020,12,December,3,Thursday,4
+SYLHET-0114,2022-05-28,Domestic Violence,Tilagor,Night,1,4,Medium,2022,5,May,28,Saturday,2
+SYLHET-0115,2022-12-12,Theft,Jalalabad,Late Night,1,3,Low,2022,12,December,12,Monday,4
+SYLHET-0116,2022-03-02,Assault,Pathantula,Night,1,1,Medium,2022,3,March,2,Wednesday,1
+SYLHET-0117,2020-08-04,Burglary,Tilagor,Morning,0,2,Low,2020,8,August,4,Tuesday,3
+SYLHET-0118,2022-02-02,Cybercrime,Moglabazar,Evening,0,3,Low,2022,2,February,2,Wednesday,1
+SYLHET-0119,2020-07-06,Theft,Zinda Bazar,Morning,1,2,Medium,2020,7,July,6,Monday,3
+SYLHET-0120,2021-01-14,Burglary,Moglabazar,Afternoon,1,1,High,2021,1,January,14,Thursday,1
+SYLHET-0121,2021-05-07,Cybercrime,Sunamganj Road,Morning,1,2,Medium,2021,5,May,7,Friday,2
+SYLHET-0122,2022-11-30,Vandalism,Chowhatta,Evening,0,1,Medium,2022,11,November,30,Wednesday,4
+SYLHET-0123,2023-03-26,Drug-related,Bandar Bazar,Night,0,1,Low,2023,3,March,26,Sunday,1
+SYLHET-0124,2020-01-15,Robbery,Tilagor,Morning,1,2,Medium,2020,1,January,15,Wednesday,1
+SYLHET-0125,2020-03-05,Theft,Moglabazar,Afternoon,1,2,Low,2020,3,March,5,Thursday,1
+SYLHET-0126,2021-06-04,Fraud,Bandar Bazar,Evening,1,1,Low,2021,6,June,4,Friday,2
+SYLHET-0127,2023-09-29,Domestic Violence,Sunamganj Road,Afternoon,1,3,Medium,2023,9,September,29,Friday,3
+SYLHET-0128,2023-02-26,Assault,Sobhani Ghat,Morning,0,4,Low,2023,2,February,26,Sunday,1
+SYLHET-0129,2021-10-09,Assault,Shahjalal Upashahar,Evening,1,1,Low,2021,10,October,9,Saturday,4
+SYLHET-0130,2024-02-04,Robbery,Chowhatta,Night,1,2,High,2024,2,February,4,Sunday,1
+SYLHET-0131,2022-12-22,Drug-related,Sunamganj Road,Morning,0,2,High,2022,12,December,22,Thursday,4
+SYLHET-0132,2023-03-08,Theft,Sunamganj Road,Morning,1,3,Low,2023,3,March,8,Wednesday,1
+SYLHET-0133,2024-03-02,Robbery,Moglabazar,Afternoon,0,4,Low,2024,3,March,2,Saturday,1
+SYLHET-0134,2021-08-15,Burglary,Zinda Bazar,Late Night,0,1,Low,2021,8,August,15,Sunday,3
+SYLHET-0135,2021-01-26,Assault,Pathantula,Night,1,1,Low,2021,1,January,26,Tuesday,1
+SYLHET-0136,2024-08-25,Robbery,Shahjalal Upashahar,Night,0,4,High,2024,8,August,25,Sunday,3
+SYLHET-0137,2021-02-22,Theft,Chowhatta,Afternoon,0,1,Low,2021,2,February,22,Monday,1
+SYLHET-0138,2020-10-15,Assault,Sobhani Ghat,Evening,0,4,High,2020,10,October,15,Thursday,4
+SYLHET-0139,2021-01-13,Robbery,Sobhani Ghat,Morning,0,2,Low,2021,1,January,13,Wednesday,1
+SYLHET-0140,2024-12-01,Assault,Ambarkhana,Evening,0,4,High,2024,12,December,1,Sunday,4
+SYLHET-0141,2024-02-22,Theft,Sunamganj Road,Late Night,0,1,Low,2024,2,February,22,Thursday,1
+SYLHET-0142,2020-08-18,Assault,Tilagor,Evening,1,4,High,2020,8,August,18,Tuesday,3
+SYLHET-0143,2022-10-14,Assault,Zinda Bazar,Night,0,3,Low,2022,10,October,14,Friday,4
+SYLHET-0144,2020-02-10,Theft,Shahjalal Upashahar,Night,0,2,Medium,2020,2,February,10,Monday,1
+SYLHET-0145,2022-11-17,Robbery,Moglabazar,Morning,0,2,Low,2022,11,November,17,Thursday,4
+SYLHET-0146,2020-05-14,Theft,Sobhani Ghat,Late Night,1,4,Low,2020,5,May,14,Thursday,2
+SYLHET-0147,2020-07-19,Theft,Chowhatta,Morning,0,1,High,2020,7,July,19,Sunday,3
+SYLHET-0148,2022-02-18,Cybercrime,Ambarkhana,Evening,1,3,High,2022,2,February,18,Friday,1
+SYLHET-0149,2022-07-18,Robbery,Chowhatta,Morning,1,2,High,2022,7,July,18,Monday,3
+SYLHET-0150,2022-11-22,Drug-related,Zinda Bazar,Morning,1,2,Medium,2022,11,November,22,Tuesday,4
+SYLHET-0151,2022-12-07,Robbery,Tilagor,Evening,0,1,High,2022,12,December,7,Wednesday,4
+SYLHET-0152,2021-05-17,Fraud,Ambarkhana,Afternoon,1,1,Low,2021,5,May,17,Monday,2
+SYLHET-0153,2021-02-10,Drug-related,Ambarkhana,Evening,0,3,Low,2021,2,February,10,Wednesday,1
+SYLHET-0154,2024-05-16,Assault,Pathantula,Evening,1,4,Low,2024,5,May,16,Thursday,2
+SYLHET-0155,2024-10-17,Assault,Shahjalal Upashahar,Morning,1,1,Medium,2024,10,October,17,Thursday,4
+SYLHET-0156,2022-03-15,Burglary,Ambarkhana,Morning,0,4,Low,2022,3,March,15,Tuesday,1
+SYLHET-0157,2020-04-08,Robbery,Rikabibazar,Evening,0,3,Low,2020,4,April,8,Wednesday,2
+SYLHET-0158,2021-11-14,Domestic Violence,Pathantula,Afternoon,0,4,Medium,2021,11,November,14,Sunday,4
+SYLHET-0159,2021-12-26,Vandalism,Pathantula,Night,1,2,High,2021,12,December,26,Sunday,4
+SYLHET-0160,2024-04-19,Cybercrime,Zinda Bazar,Night,0,4,Low,2024,4,April,19,Friday,2
+SYLHET-0161,2022-08-18,Theft,Rikabibazar,Night,0,3,Low,2022,8,August,18,Thursday,3
+SYLHET-0162,2024-10-28,Fraud,Bandar Bazar,Night,0,3,Low,2024,10,October,28,Monday,4
+SYLHET-0163,2021-09-04,Domestic Violence,Chowhatta,Evening,1,3,Low,2021,9,September,4,Saturday,3
+SYLHET-0164,2024-01-25,Theft,Tilagor,Night,1,4,Low,2024,1,January,25,Thursday,1
+SYLHET-0165,2021-10-04,Theft,Jalalabad,Afternoon,1,2,Medium,2021,10,October,4,Monday,4
+SYLHET-0166,2024-11-27,Fraud,Chowhatta,Afternoon,1,1,Medium,2024,11,November,27,Wednesday,4
+SYLHET-0167,2022-10-25,Assault,Ambarkhana,Night,0,2,Medium,2022,10,October,25,Tuesday,4
+SYLHET-0168,2023-05-26,Vandalism,Tilagor,Evening,0,4,Low,2023,5,May,26,Friday,2
+SYLHET-0169,2021-05-17,Theft,Sobhani Ghat,Night,1,4,High,2021,5,May,17,Monday,2
+SYLHET-0170,2022-02-05,Drug-related,Bandar Bazar,Night,0,1,Low,2022,2,February,5,Saturday,1
+SYLHET-0171,2021-02-01,Robbery,Sobhani Ghat,Night,0,4,Medium,2021,2,February,1,Monday,1
+SYLHET-0172,2022-05-20,Theft,Rikabibazar,Late Night,0,3,High,2022,5,May,20,Friday,2
+SYLHET-0173,2022-03-05,Theft,Sobhani Ghat,Evening,0,3,Low,2022,3,March,5,Saturday,1
+SYLHET-0174,2021-01-27,Drug-related,Moglabazar,Afternoon,0,3,Low,2021,1,January,27,Wednesday,1
+SYLHET-0175,2020-07-25,Fraud,Shahjalal Upashahar,Evening,1,3,High,2020,7,July,25,Saturday,3
+SYLHET-0176,2022-11-04,Assault,Chowhatta,Afternoon,0,3,Low,2022,11,November,4,Friday,4
+SYLHET-0177,2024-04-26,Burglary,Jalalabad,Evening,0,4,Medium,2024,4,April,26,Friday,2
+SYLHET-0178,2022-06-10,Vandalism,Moglabazar,Night,0,1,Low,2022,6,June,10,Friday,2
+SYLHET-0179,2024-01-24,Burglary,Zinda Bazar,Night,1,1,Medium,2024,1,January,24,Wednesday,1
+SYLHET-0180,2024-09-10,Drug-related,Jalalabad,Afternoon,0,3,Low,2024,9,September,10,Tuesday,3
+SYLHET-0181,2024-05-17,Burglary,Sobhani Ghat,Afternoon,1,4,Low,2024,5,May,17,Friday,2
+SYLHET-0182,2022-05-13,Burglary,Ambarkhana,Evening,1,2,Medium,2022,5,May,13,Friday,2
+SYLHET-0183,2022-01-12,Burglary,Bandar Bazar,Morning,0,2,Low,2022,1,January,12,Wednesday,1
+SYLHET-0184,2023-06-18,Robbery,Sunamganj Road,Night,1,4,Low,2023,6,June,18,Sunday,2
+SYLHET-0185,2021-07-17,Fraud,Jalalabad,Afternoon,1,3,Low,2021,7,July,17,Saturday,3
+SYLHET-0186,2022-10-17,Assault,Sobhani Ghat,Afternoon,1,1,Low,2022,10,October,17,Monday,4
+SYLHET-0187,2020-04-05,Robbery,Bandar Bazar,Morning,1,4,Low,2020,4,April,5,Sunday,2
+SYLHET-0188,2024-10-23,Domestic Violence,Tilagor,Evening,0,2,Low,2024,10,October,23,Wednesday,4
+SYLHET-0189,2021-04-29,Burglary,Chowhatta,Evening,0,2,High,2021,4,April,29,Thursday,2
+SYLHET-0190,2023-12-01,Assault,Pathantula,Afternoon,0,2,Low,2023,12,December,1,Friday,4
+SYLHET-0191,2020-08-18,Domestic Violence,Shahjalal Upashahar,Morning,0,3,Medium,2020,8,August,18,Tuesday,3
+SYLHET-0192,2022-01-18,Assault,Bandar Bazar,Evening,1,2,Low,2022,1,January,18,Tuesday,1
+SYLHET-0193,2024-08-05,Theft,Ambarkhana,Afternoon,0,4,Low,2024,8,August,5,Monday,3
+SYLHET-0194,2023-04-09,Domestic Violence,Rikabibazar,Night,1,4,High,2023,4,April,9,Sunday,2
+SYLHET-0195,2021-06-24,Assault,Ambarkhana,Evening,1,2,Low,2021,6,June,24,Thursday,2
+SYLHET-0196,2022-11-25,Robbery,Bandar Bazar,Afternoon,1,4,High,2022,11,November,25,Friday,4
+SYLHET-0197,2021-06-08,Theft,Ambarkhana,Afternoon,1,2,Low,2021,6,June,8,Tuesday,2
+SYLHET-0198,2023-03-29,Drug-related,Chowhatta,Late Night,0,2,Medium,2023,3,March,29,Wednesday,1
+SYLHET-0199,2024-09-18,Assault,Ambarkhana,Evening,0,1,Medium,2024,9,September,18,Wednesday,3
+SYLHET-0200,2023-06-20,Assault,Jalalabad,Night,0,3,High,2023,6,June,20,Tuesday,2
+SYLHET-0201,2023-01-14,Domestic Violence,Pathantula,Morning,0,3,Medium,2023,1,January,14,Saturday,1
+SYLHET-0202,2024-12-24,Drug-related,Ambarkhana,Evening,0,1,Medium,2024,12,December,24,Tuesday,4
+SYLHET-0203,2021-07-31,Theft,Pathantula,Morning,0,1,Low,2021,7,July,31,Saturday,3
+SYLHET-0204,2021-11-12,Robbery,Sobhani Ghat,Evening,1,3,Low,2021,11,November,12,Friday,4
+SYLHET-0205,2021-07-10,Robbery,Zinda Bazar,Late Night,0,2,High,2021,7,July,10,Saturday,3
+SYLHET-0206,2024-05-16,Fraud,Chowhatta,Afternoon,0,2,Low,2024,5,May,16,Thursday,2
+SYLHET-0207,2022-10-09,Theft,Zinda Bazar,Morning,1,3,Low,2022,10,October,9,Sunday,4
+SYLHET-0208,2021-10-07,Assault,Sobhani Ghat,Morning,0,2,High,2021,10,October,7,Thursday,4
+SYLHET-0209,2022-03-06,Drug-related,Chowhatta,Afternoon,0,1,Low,2022,3,March,6,Sunday,1
+SYLHET-0210,2022-11-17,Vandalism,Bandar Bazar,Afternoon,1,2,High,2022,11,November,17,Thursday,4
+SYLHET-0211,2024-07-01,Robbery,Bandar Bazar,Morning,1,2,Medium,2024,7,July,1,Monday,3
+SYLHET-0212,2024-04-28,Drug-related,Pathantula,Night,1,4,Medium,2024,4,April,28,Sunday,2
+SYLHET-0213,2023-09-25,Theft,Sobhani Ghat,Evening,0,4,High,2023,9,September,25,Monday,3
+SYLHET-0214,2024-12-26,Vandalism,Pathantula,Afternoon,1,4,Low,2024,12,December,26,Thursday,4
+SYLHET-0215,2023-09-16,Theft,Shahjalal Upashahar,Late Night,1,2,Low,2023,9,September,16,Saturday,3
+SYLHET-0216,2024-07-21,Burglary,Ambarkhana,Morning,0,3,Medium,2024,7,July,21,Sunday,3
+SYLHET-0217,2024-03-09,Drug-related,Sunamganj Road,Late Night,1,1,Low,2024,3,March,9,Saturday,1
+SYLHET-0218,2023-10-03,Theft,Shahjalal Upashahar,Afternoon,1,2,Medium,2023,10,October,3,Tuesday,4
+SYLHET-0219,2024-02-05,Robbery,Ambarkhana,Night,0,3,High,2024,2,February,5,Monday,1
+SYLHET-0220,2023-06-08,Fraud,Chowhatta,Evening,0,2,Medium,2023,6,June,8,Thursday,2
+SYLHET-0221,2020-07-08,Fraud,Pathantula,Night,1,1,Low,2020,7,July,8,Wednesday,3
+SYLHET-0222,2023-06-02,Assault,Chowhatta,Late Night,1,2,High,2023,6,June,2,Friday,2
+SYLHET-0223,2023-11-09,Fraud,Moglabazar,Afternoon,0,1,Medium,2023,11,November,9,Thursday,4
+SYLHET-0224,2023-11-01,Assault,Moglabazar,Late Night,1,2,Medium,2023,11,November,1,Wednesday,4
+SYLHET-0225,2023-07-30,Robbery,Moglabazar,Afternoon,0,1,Low,2023,7,July,30,Sunday,3
+SYLHET-0226,2021-09-24,Robbery,Chowhatta,Afternoon,0,2,High,2021,9,September,24,Friday,3
+SYLHET-0227,2021-09-19,Theft,Ambarkhana,Afternoon,0,1,Medium,2021,9,September,19,Sunday,3
+SYLHET-0228,2022-08-30,Domestic Violence,Moglabazar,Evening,1,4,High,2022,8,August,30,Tuesday,3
+SYLHET-0229,2024-11-03,Assault,Sobhani Ghat,Afternoon,1,2,High,2024,11,November,3,Sunday,4
+SYLHET-0230,2023-07-06,Burglary,Rikabibazar,Evening,0,2,Low,2023,7,July,6,Thursday,3
+SYLHET-0231,2023-10-14,Burglary,Ambarkhana,Evening,0,3,Medium,2023,10,October,14,Saturday,4
+SYLHET-0232,2021-12-10,Domestic Violence,Moglabazar,Night,0,3,High,2021,12,December,10,Friday,4
+SYLHET-0233,2024-01-19,Theft,Tilagor,Night,1,1,Low,2024,1,January,19,Friday,1
+SYLHET-0234,2023-12-05,Assault,Bandar Bazar,Evening,1,2,High,2023,12,December,5,Tuesday,4
+SYLHET-0235,2021-10-10,Assault,Bandar Bazar,Afternoon,1,1,High,2021,10,October,10,Sunday,4
+SYLHET-0236,2020-11-13,Assault,Shahjalal Upashahar,Afternoon,1,4,Medium,2020,11,November,13,Friday,4
+SYLHET-0237,2024-08-27,Theft,Bandar Bazar,Afternoon,1,3,Medium,2024,8,August,27,Tuesday,3
+SYLHET-0238,2023-06-02,Vandalism,Ambarkhana,Morning,0,1,High,2023,6,June,2,Friday,2
+SYLHET-0239,2023-06-11,Domestic Violence,Jalalabad,Afternoon,0,1,High,2023,6,June,11,Sunday,2
+SYLHET-0240,2021-11-14,Assault,Pathantula,Afternoon,0,3,Low,2021,11,November,14,Sunday,4
+SYLHET-0241,2021-10-25,Fraud,Ambarkhana,Late Night,1,2,Low,2021,10,October,25,Monday,4
+SYLHET-0242,2023-10-29,Domestic Violence,Rikabibazar,Evening,1,1,Medium,2023,10,October,29,Sunday,4
+SYLHET-0243,2024-08-22,Fraud,Ambarkhana,Afternoon,0,3,Medium,2024,8,August,22,Thursday,3
+SYLHET-0244,2024-06-19,Theft,Sunamganj Road,Evening,1,2,Medium,2024,6,June,19,Wednesday,2
+SYLHET-0245,2024-02-04,Assault,Pathantula,Morning,0,4,Medium,2024,2,February,4,Sunday,1
+SYLHET-0246,2023-06-10,Assault,Tilagor,Evening,0,3,Low,2023,6,June,10,Saturday,2
+SYLHET-0247,2024-09-11,Burglary,Bandar Bazar,Evening,1,1,Medium,2024,9,September,11,Wednesday,3
+SYLHET-0248,2023-02-10,Fraud,Pathantula,Evening,1,4,Low,2023,2,February,10,Friday,1
+SYLHET-0249,2024-02-29,Domestic Violence,Bandar Bazar,Evening,1,2,Medium,2024,2,February,29,Thursday,1
+SYLHET-0250,2021-03-17,Domestic Violence,Shahjalal Upashahar,Late Night,0,2,Medium,2021,3,March,17,Wednesday,1
+SYLHET-0251,2021-07-17,Burglary,Pathantula,Night,0,3,Low,2021,7,July,17,Saturday,3
+SYLHET-0252,2023-07-15,Theft,Moglabazar,Evening,1,3,Low,2023,7,July,15,Saturday,3
+SYLHET-0253,2024-03-13,Cybercrime,Bandar Bazar,Evening,0,3,Medium,2024,3,March,13,Wednesday,1
+SYLHET-0254,2023-11-10,Vandalism,Tilagor,Evening,0,2,Medium,2023,11,November,10,Friday,4
+SYLHET-0255,2023-11-11,Theft,Moglabazar,Afternoon,1,4,Low,2023,11,November,11,Saturday,4
+SYLHET-0256,2023-02-10,Domestic Violence,Zinda Bazar,Afternoon,0,2,High,2023,2,February,10,Friday,1
+SYLHET-0257,2024-06-24,Vandalism,Chowhatta,Morning,1,1,Medium,2024,6,June,24,Monday,2
+SYLHET-0258,2024-07-06,Assault,Chowhatta,Evening,1,2,High,2024,7,July,6,Saturday,3
+SYLHET-0259,2022-08-09,Assault,Tilagor,Evening,0,1,Medium,2022,8,August,9,Tuesday,3
+SYLHET-0260,2023-01-09,Burglary,Sunamganj Road,Afternoon,0,4,Medium,2023,1,January,9,Monday,1
+SYLHET-0261,2021-11-29,Theft,Zinda Bazar,Late Night,1,3,High,2021,11,November,29,Monday,4
+SYLHET-0262,2020-04-22,Robbery,Shahjalal Upashahar,Late Night,1,3,Medium,2020,4,April,22,Wednesday,2
+SYLHET-0263,2020-01-02,Drug-related,Tilagor,Night,1,2,Medium,2020,1,January,2,Thursday,1
+SYLHET-0264,2021-10-03,Theft,Moglabazar,Evening,1,3,Low,2021,10,October,3,Sunday,4
+SYLHET-0265,2020-08-07,Robbery,Chowhatta,Night,1,4,Medium,2020,8,August,7,Friday,3
+SYLHET-0266,2024-05-08,Burglary,Chowhatta,Morning,1,3,Low,2024,5,May,8,Wednesday,2
+SYLHET-0267,2022-05-04,Assault,Chowhatta,Night,0,2,Low,2022,5,May,4,Wednesday,2
+SYLHET-0268,2024-10-25,Domestic Violence,Moglabazar,Morning,0,4,Low,2024,10,October,25,Friday,4
+SYLHET-0269,2023-06-02,Robbery,Sobhani Ghat,Night,0,1,Low,2023,6,June,2,Friday,2
+SYLHET-0270,2021-01-19,Robbery,Tilagor,Afternoon,0,2,High,2021,1,January,19,Tuesday,1
+SYLHET-0271,2023-11-27,Fraud,Ambarkhana,Night,0,1,Low,2023,11,November,27,Monday,4
+SYLHET-0272,2024-07-19,Burglary,Shahjalal Upashahar,Late Night,0,4,Medium,2024,7,July,19,Friday,3
+SYLHET-0273,2023-02-27,Robbery,Chowhatta,Morning,1,2,High,2023,2,February,27,Monday,1
+SYLHET-0274,2022-12-12,Burglary,Bandar Bazar,Evening,0,2,Medium,2022,12,December,12,Monday,4
+SYLHET-0275,2024-09-03,Theft,Tilagor,Late Night,0,4,Low,2024,9,September,3,Tuesday,3
+SYLHET-0276,2021-12-30,Theft,Rikabibazar,Evening,0,3,Medium,2021,12,December,30,Thursday,4
+SYLHET-0277,2024-08-22,Assault,Moglabazar,Night,0,2,Medium,2024,8,August,22,Thursday,3
+SYLHET-0278,2024-09-29,Burglary,Sobhani Ghat,Evening,0,2,Medium,2024,9,September,29,Sunday,3
+SYLHET-0279,2023-12-10,Domestic Violence,Tilagor,Afternoon,0,1,High,2023,12,December,10,Sunday,4
+SYLHET-0280,2020-09-03,Burglary,Shahjalal Upashahar,Afternoon,0,3,High,2020,9,September,3,Thursday,3
+SYLHET-0281,2022-04-15,Assault,Sobhani Ghat,Afternoon,1,1,Medium,2022,4,April,15,Friday,2
+SYLHET-0282,2024-01-02,Assault,Shahjalal Upashahar,Night,1,1,Low,2024,1,January,2,Tuesday,1
+SYLHET-0283,2020-07-21,Theft,Tilagor,Afternoon,1,3,Medium,2020,7,July,21,Tuesday,3
+SYLHET-0284,2023-04-22,Fraud,Ambarkhana,Evening,1,3,Low,2023,4,April,22,Saturday,2
+SYLHET-0285,2020-05-02,Theft,Rikabibazar,Evening,0,4,High,2020,5,May,2,Saturday,2
+SYLHET-0286,2021-02-04,Cybercrime,Shahjalal Upashahar,Evening,1,3,Low,2021,2,February,4,Thursday,1
+SYLHET-0287,2022-02-05,Theft,Sobhani Ghat,Night,1,2,Low,2022,2,February,5,Saturday,1
+SYLHET-0288,2020-10-20,Burglary,Sobhani Ghat,Late Night,0,3,High,2020,10,October,20,Tuesday,4
+SYLHET-0289,2020-10-06,Theft,Shahjalal Upashahar,Evening,1,4,Medium,2020,10,October,6,Tuesday,4
+SYLHET-0290,2022-06-02,Cybercrime,Jalalabad,Night,0,4,Low,2022,6,June,2,Thursday,2
+SYLHET-0291,2024-06-21,Assault,Tilagor,Night,1,4,Medium,2024,6,June,21,Friday,2
+SYLHET-0292,2020-07-16,Assault,Jalalabad,Evening,1,3,High,2020,7,July,16,Thursday,3
+SYLHET-0293,2022-09-08,Theft,Sunamganj Road,Late Night,0,3,Low,2022,9,September,8,Thursday,3
+SYLHET-0294,2024-03-14,Fraud,Tilagor,Afternoon,1,1,High,2024,3,March,14,Thursday,1
+SYLHET-0295,2022-01-21,Robbery,Shahjalal Upashahar,Morning,1,1,Low,2022,1,January,21,Friday,1
+SYLHET-0296,2020-05-23,Domestic Violence,Zinda Bazar,Night,1,2,High,2020,5,May,23,Saturday,2
+SYLHET-0297,2021-08-31,Robbery,Shahjalal Upashahar,Evening,0,1,High,2021,8,August,31,Tuesday,3
+SYLHET-0298,2023-05-09,Theft,Jalalabad,Night,1,2,Low,2023,5,May,9,Tuesday,2
+SYLHET-0299,2023-02-21,Theft,Ambarkhana,Night,0,4,Medium,2023,2,February,21,Tuesday,1
+SYLHET-0300,2020-07-05,Assault,Shahjalal Upashahar,Morning,0,1,Low,2020,7,July,5,Sunday,3
+SYLHET-0301,2023-09-11,Assault,Shahjalal Upashahar,Night,0,3,Medium,2023,9,September,11,Monday,3
+SYLHET-0302,2021-04-08,Theft,Ambarkhana,Evening,1,1,Medium,2021,4,April,8,Thursday,2
+SYLHET-0303,2023-10-04,Drug-related,Shahjalal Upashahar,Evening,1,2,Medium,2023,10,October,4,Wednesday,4
+SYLHET-0304,2024-11-29,Burglary,Chowhatta,Evening,1,1,Low,2024,11,November,29,Friday,4
+SYLHET-0305,2021-10-21,Assault,Zinda Bazar,Late Night,1,4,Low,2021,10,October,21,Thursday,4
+SYLHET-0306,2022-02-02,Burglary,Bandar Bazar,Morning,0,3,Low,2022,2,February,2,Wednesday,1
+SYLHET-0307,2022-08-12,Burglary,Zinda Bazar,Evening,0,2,Low,2022,8,August,12,Friday,3
+SYLHET-0308,2021-02-06,Assault,Moglabazar,Night,0,3,Medium,2021,2,February,6,Saturday,1
+SYLHET-0309,2023-10-01,Theft,Rikabibazar,Night,0,3,High,2023,10,October,1,Sunday,4
+SYLHET-0310,2024-03-14,Theft,Shahjalal Upashahar,Night,0,2,Medium,2024,3,March,14,Thursday,1
+SYLHET-0311,2020-05-26,Vandalism,Chowhatta,Morning,0,3,Medium,2020,5,May,26,Tuesday,2
+SYLHET-0312,2023-03-17,Domestic Violence,Tilagor,Afternoon,0,3,High,2023,3,March,17,Friday,1
+SYLHET-0313,2022-05-13,Burglary,Shahjalal Upashahar,Afternoon,0,1,Medium,2022,5,May,13,Friday,2
+SYLHET-0314,2024-09-30,Robbery,Jalalabad,Night,0,3,High,2024,9,September,30,Monday,3
+SYLHET-0315,2021-05-03,Assault,Chowhatta,Afternoon,0,3,Medium,2021,5,May,3,Monday,2
+SYLHET-0316,2022-07-17,Burglary,Ambarkhana,Afternoon,1,3,Low,2022,7,July,17,Sunday,3
+SYLHET-0317,2024-07-21,Theft,Chowhatta,Late Night,1,3,Low,2024,7,July,21,Sunday,3
+SYLHET-0318,2021-07-04,Theft,Moglabazar,Morning,1,2,Medium,2021,7,July,4,Sunday,3
+SYLHET-0319,2020-12-03,Fraud,Ambarkhana,Late Night,0,4,Low,2020,12,December,3,Thursday,4
+SYLHET-0320,2022-05-21,Fraud,Sunamganj Road,Night,0,1,Low,2022,5,May,21,Saturday,2
+SYLHET-0321,2021-10-02,Theft,Bandar Bazar,Night,1,3,Medium,2021,10,October,2,Saturday,4
+SYLHET-0322,2024-12-07,Robbery,Pathantula,Afternoon,0,3,Medium,2024,12,December,7,Saturday,4
+SYLHET-0323,2021-04-17,Robbery,Chowhatta,Morning,0,2,Medium,2021,4,April,17,Saturday,2
+SYLHET-0324,2020-05-30,Fraud,Sobhani Ghat,Night,0,4,Low,2020,5,May,30,Saturday,2
+SYLHET-0325,2023-12-09,Theft,Jalalabad,Night,0,3,Low,2023,12,December,9,Saturday,4
+SYLHET-0326,2023-08-14,Theft,Shahjalal Upashahar,Night,0,2,Medium,2023,8,August,14,Monday,3
+SYLHET-0327,2024-06-22,Drug-related,Jalalabad,Morning,0,1,High,2024,6,June,22,Saturday,2
+SYLHET-0328,2020-09-19,Theft,Zinda Bazar,Night,1,1,Medium,2020,9,September,19,Saturday,3
+SYLHET-0329,2024-11-22,Fraud,Pathantula,Night,0,3,High,2024,11,November,22,Friday,4
+SYLHET-0330,2020-05-23,Robbery,Zinda Bazar,Night,0,3,High,2020,5,May,23,Saturday,2
+SYLHET-0331,2020-12-11,Theft,Sunamganj Road,Night,1,4,Medium,2020,12,December,11,Friday,4
+SYLHET-0332,2021-09-15,Robbery,Pathantula,Night,0,4,Low,2021,9,September,15,Wednesday,3
+SYLHET-0333,2022-10-13,Fraud,Pathantula,Evening,0,3,Medium,2022,10,October,13,Thursday,4
+SYLHET-0334,2024-05-14,Vandalism,Zinda Bazar,Morning,1,2,Medium,2024,5,May,14,Tuesday,2
+SYLHET-0335,2022-05-30,Vandalism,Ambarkhana,Evening,0,4,Medium,2022,5,May,30,Monday,2
+SYLHET-0336,2020-01-02,Burglary,Moglabazar,Morning,0,3,Medium,2020,1,January,2,Thursday,1
+SYLHET-0337,2022-06-15,Fraud,Zinda Bazar,Evening,0,4,Medium,2022,6,June,15,Wednesday,2
+SYLHET-0338,2023-08-20,Robbery,Jalalabad,Evening,0,3,Low,2023,8,August,20,Sunday,3
+SYLHET-0339,2020-09-10,Robbery,Ambarkhana,Morning,0,1,Medium,2020,9,September,10,Thursday,3
+SYLHET-0340,2024-08-02,Domestic Violence,Jalalabad,Afternoon,1,3,Low,2024,8,August,2,Friday,3
+SYLHET-0341,2021-03-28,Theft,Moglabazar,Morning,0,1,High,2021,3,March,28,Sunday,1
+SYLHET-0342,2022-11-26,Theft,Sunamganj Road,Night,0,4,Low,2022,11,November,26,Saturday,4
+SYLHET-0343,2023-03-29,Robbery,Shahjalal Upashahar,Late Night,0,3,Low,2023,3,March,29,Wednesday,1
+SYLHET-0344,2022-10-11,Theft,Moglabazar,Morning,0,4,Medium,2022,10,October,11,Tuesday,4
+SYLHET-0345,2020-01-09,Theft,Rikabibazar,Late Night,1,1,Medium,2020,1,January,9,Thursday,1
+SYLHET-0346,2023-06-10,Assault,Tilagor,Evening,0,3,Medium,2023,6,June,10,Saturday,2
+SYLHET-0347,2023-01-27,Burglary,Ambarkhana,Afternoon,0,4,Low,2023,1,January,27,Friday,1
+SYLHET-0348,2024-08-09,Domestic Violence,Sunamganj Road,Morning,0,1,Medium,2024,8,August,9,Friday,3
+SYLHET-0349,2022-03-26,Drug-related,Rikabibazar,Evening,0,4,Low,2022,3,March,26,Saturday,1
+SYLHET-0350,2020-07-26,Robbery,Sobhani Ghat,Night,0,2,High,2020,7,July,26,Sunday,3
+SYLHET-0351,2023-02-28,Robbery,Sunamganj Road,Night,1,1,High,2023,2,February,28,Tuesday,1
+SYLHET-0352,2021-02-07,Burglary,Zinda Bazar,Morning,0,1,Medium,2021,2,February,7,Sunday,1
+SYLHET-0353,2020-05-31,Assault,Zinda Bazar,Morning,0,1,Low,2020,5,May,31,Sunday,2
+SYLHET-0354,2020-02-23,Robbery,Moglabazar,Evening,0,3,Medium,2020,2,February,23,Sunday,1
+SYLHET-0355,2023-02-17,Assault,Tilagor,Afternoon,1,3,Low,2023,2,February,17,Friday,1
+SYLHET-0356,2024-08-23,Burglary,Sunamganj Road,Afternoon,0,3,Medium,2024,8,August,23,Friday,3
+SYLHET-0357,2021-09-19,Assault,Bandar Bazar,Afternoon,1,2,Low,2021,9,September,19,Sunday,3
+SYLHET-0358,2021-08-09,Burglary,Shahjalal Upashahar,Night,1,2,High,2021,8,August,9,Monday,3
+SYLHET-0359,2024-07-06,Robbery,Moglabazar,Late Night,1,1,Low,2024,7,July,6,Saturday,3
+SYLHET-0360,2023-12-14,Domestic Violence,Zinda Bazar,Evening,0,2,Medium,2023,12,December,14,Thursday,4
+SYLHET-0361,2023-12-16,Drug-related,Tilagor,Late Night,0,4,Medium,2023,12,December,16,Saturday,4
+SYLHET-0362,2020-04-13,Theft,Shahjalal Upashahar,Afternoon,1,1,Medium,2020,4,April,13,Monday,2
+SYLHET-0363,2020-09-10,Vandalism,Sunamganj Road,Evening,1,1,Low,2020,9,September,10,Thursday,3
+SYLHET-0364,2023-06-04,Assault,Sunamganj Road,Afternoon,1,4,High,2023,6,June,4,Sunday,2
+SYLHET-0365,2023-02-09,Domestic Violence,Pathantula,Evening,0,1,Medium,2023,2,February,9,Thursday,1
+SYLHET-0366,2021-05-24,Drug-related,Tilagor,Late Night,0,2,Medium,2021,5,May,24,Monday,2
+SYLHET-0367,2024-02-05,Burglary,Rikabibazar,Evening,0,3,Low,2024,2,February,5,Monday,1
+SYLHET-0368,2020-04-08,Theft,Zinda Bazar,Afternoon,1,4,Medium,2020,4,April,8,Wednesday,2
+SYLHET-0369,2020-06-01,Robbery,Bandar Bazar,Evening,0,2,Medium,2020,6,June,1,Monday,2
+SYLHET-0370,2022-07-02,Assault,Sunamganj Road,Morning,0,4,Low,2022,7,July,2,Saturday,3
+SYLHET-0371,2022-05-27,Assault,Bandar Bazar,Night,1,4,Low,2022,5,May,27,Friday,2
+SYLHET-0372,2020-12-03,Robbery,Sunamganj Road,Evening,0,1,High,2020,12,December,3,Thursday,4
+SYLHET-0373,2024-09-25,Theft,Zinda Bazar,Evening,1,1,Low,2024,9,September,25,Wednesday,3
+SYLHET-0374,2022-04-01,Vandalism,Shahjalal Upashahar,Evening,0,2,Low,2022,4,April,1,Friday,2
+SYLHET-0375,2023-04-01,Cybercrime,Chowhatta,Evening,0,4,Medium,2023,4,April,1,Saturday,2
+SYLHET-0376,2024-10-09,Assault,Shahjalal Upashahar,Morning,0,1,High,2024,10,October,9,Wednesday,4
+SYLHET-0377,2022-08-14,Theft,Sunamganj Road,Night,1,1,Low,2022,8,August,14,Sunday,3
+SYLHET-0378,2024-08-31,Robbery,Jalalabad,Afternoon,0,4,Medium,2024,8,August,31,Saturday,3
+SYLHET-0379,2020-06-09,Theft,Chowhatta,Night,0,2,Low,2020,6,June,9,Tuesday,2
+SYLHET-0380,2024-05-22,Domestic Violence,Rikabibazar,Night,1,2,Low,2024,5,May,22,Wednesday,2
+SYLHET-0381,2022-03-11,Theft,Chowhatta,Night,0,4,Low,2022,3,March,11,Friday,1
+SYLHET-0382,2021-02-01,Assault,Bandar Bazar,Evening,0,2,High,2021,2,February,1,Monday,1
+SYLHET-0383,2023-07-24,Robbery,Tilagor,Evening,0,1,Low,2023,7,July,24,Monday,3
+SYLHET-0384,2022-03-26,Assault,Bandar Bazar,Morning,0,4,Low,2022,3,March,26,Saturday,1
+SYLHET-0385,2024-03-07,Fraud,Moglabazar,Night,1,1,Medium,2024,3,March,7,Thursday,1
+SYLHET-0386,2023-11-16,Drug-related,Bandar Bazar,Afternoon,0,3,High,2023,11,November,16,Thursday,4
+SYLHET-0387,2023-03-04,Robbery,Rikabibazar,Evening,0,3,Low,2023,3,March,4,Saturday,1
+SYLHET-0388,2023-05-03,Theft,Jalalabad,Afternoon,0,2,Medium,2023,5,May,3,Wednesday,2
+SYLHET-0389,2021-02-04,Theft,Shahjalal Upashahar,Morning,1,3,Low,2021,2,February,4,Thursday,1
+SYLHET-0390,2021-10-01,Domestic Violence,Shahjalal Upashahar,Evening,0,1,Medium,2021,10,October,1,Friday,4
+SYLHET-0391,2022-11-22,Vandalism,Sobhani Ghat,Morning,0,3,Medium,2022,11,November,22,Tuesday,4
+SYLHET-0392,2021-11-18,Assault,Sunamganj Road,Night,0,1,Medium,2021,11,November,18,Thursday,4
+SYLHET-0393,2021-04-04,Assault,Jalalabad,Afternoon,0,2,Low,2021,4,April,4,Sunday,2
+SYLHET-0394,2022-08-12,Fraud,Sobhani Ghat,Morning,0,2,Low,2022,8,August,12,Friday,3
+SYLHET-0395,2021-04-14,Theft,Moglabazar,Evening,0,1,Low,2021,4,April,14,Wednesday,2
+SYLHET-0396,2023-10-30,Domestic Violence,Zinda Bazar,Morning,1,3,Low,2023,10,October,30,Monday,4
+SYLHET-0397,2022-11-11,Burglary,Sunamganj Road,Afternoon,0,2,Low,2022,11,November,11,Friday,4
+SYLHET-0398,2022-01-19,Burglary,Sunamganj Road,Night,1,4,High,2022,1,January,19,Wednesday,1
+SYLHET-0399,2024-08-20,Assault,Pathantula,Morning,1,2,High,2024,8,August,20,Tuesday,3
+SYLHET-0400,2020-02-07,Theft,Pathantula,Night,0,3,High,2020,2,February,7,Friday,1
+SYLHET-0401,2020-08-17,Theft,Ambarkhana,Morning,0,4,High,2020,8,August,17,Monday,3
+SYLHET-0402,2023-10-20,Fraud,Ambarkhana,Afternoon,0,3,Medium,2023,10,October,20,Friday,4
+SYLHET-0403,2021-07-16,Theft,Bandar Bazar,Night,1,1,Medium,2021,7,July,16,Friday,3
+SYLHET-0404,2021-03-13,Assault,Zinda Bazar,Afternoon,0,4,Low,2021,3,March,13,Saturday,1
+SYLHET-0405,2024-12-04,Robbery,Chowhatta,Morning,0,3,Medium,2024,12,December,4,Wednesday,4
+SYLHET-0406,2023-07-30,Burglary,Chowhatta,Afternoon,0,4,Medium,2023,7,July,30,Sunday,3
+SYLHET-0407,2020-01-27,Robbery,Pathantula,Afternoon,1,3,Medium,2020,1,January,27,Monday,1
+SYLHET-0408,2020-08-13,Burglary,Pathantula,Night,1,4,High,2020,8,August,13,Thursday,3
+SYLHET-0409,2023-07-24,Fraud,Pathantula,Afternoon,0,3,Low,2023,7,July,24,Monday,3
+SYLHET-0410,2022-03-08,Robbery,Jalalabad,Night,1,1,Low,2022,3,March,8,Tuesday,1
+SYLHET-0411,2024-06-20,Assault,Tilagor,Night,0,4,High,2024,6,June,20,Thursday,2
+SYLHET-0412,2020-10-10,Assault,Ambarkhana,Evening,0,4,Low,2020,10,October,10,Saturday,4
+SYLHET-0413,2022-05-28,Fraud,Jalalabad,Late Night,1,4,Medium,2022,5,May,28,Saturday,2
+SYLHET-0414,2022-08-17,Domestic Violence,Shahjalal Upashahar,Afternoon,0,4,High,2022,8,August,17,Wednesday,3
+SYLHET-0415,2024-02-13,Fraud,Chowhatta,Late Night,0,1,Medium,2024,2,February,13,Tuesday,1
+SYLHET-0416,2021-03-28,Robbery,Moglabazar,Morning,0,4,Medium,2021,3,March,28,Sunday,1
+SYLHET-0417,2022-10-16,Theft,Rikabibazar,Night,1,2,Low,2022,10,October,16,Sunday,4
+SYLHET-0418,2022-03-26,Robbery,Sunamganj Road,Evening,1,1,Low,2022,3,March,26,Saturday,1
+SYLHET-0419,2021-10-20,Assault,Ambarkhana,Afternoon,1,2,High,2021,10,October,20,Wednesday,4
+SYLHET-0420,2024-03-19,Theft,Sobhani Ghat,Evening,1,4,Medium,2024,3,March,19,Tuesday,1
+SYLHET-0421,2021-06-30,Assault,Shahjalal Upashahar,Night,0,3,Medium,2021,6,June,30,Wednesday,2
+SYLHET-0422,2023-04-30,Assault,Moglabazar,Morning,0,2,Low,2023,4,April,30,Sunday,2
+SYLHET-0423,2022-12-08,Robbery,Ambarkhana,Afternoon,0,4,Low,2022,12,December,8,Thursday,4
+SYLHET-0424,2024-03-15,Drug-related,Rikabibazar,Night,0,2,High,2024,3,March,15,Friday,1
+SYLHET-0425,2020-01-17,Theft,Jalalabad,Night,0,4,Low,2020,1,January,17,Friday,1
+SYLHET-0426,2023-04-10,Theft,Zinda Bazar,Late Night,1,4,Medium,2023,4,April,10,Monday,2
+SYLHET-0427,2023-05-28,Fraud,Sunamganj Road,Night,0,4,Low,2023,5,May,28,Sunday,2
+SYLHET-0428,2020-06-06,Assault,Ambarkhana,Late Night,0,3,Medium,2020,6,June,6,Saturday,2
+SYLHET-0429,2021-04-21,Fraud,Tilagor,Night,0,2,High,2021,4,April,21,Wednesday,2
+SYLHET-0430,2022-12-05,Burglary,Pathantula,Afternoon,0,1,Medium,2022,12,December,5,Monday,4
+SYLHET-0431,2023-10-28,Robbery,Pathantula,Morning,1,1,Low,2023,10,October,28,Saturday,4
+SYLHET-0432,2021-06-01,Drug-related,Sunamganj Road,Night,0,1,Medium,2021,6,June,1,Tuesday,2
+SYLHET-0433,2020-04-08,Drug-related,Rikabibazar,Evening,0,1,High,2020,4,April,8,Wednesday,2
+SYLHET-0434,2024-11-03,Fraud,Moglabazar,Morning,1,4,Medium,2024,11,November,3,Sunday,4
+SYLHET-0435,2022-11-26,Robbery,Jalalabad,Afternoon,0,2,High,2022,11,November,26,Saturday,4
+SYLHET-0436,2020-10-06,Assault,Pathantula,Late Night,0,2,Medium,2020,10,October,6,Tuesday,4
+SYLHET-0437,2023-10-04,Burglary,Ambarkhana,Evening,0,3,High,2023,10,October,4,Wednesday,4
+SYLHET-0438,2021-05-11,Theft,Sobhani Ghat,Evening,0,2,Medium,2021,5,May,11,Tuesday,2
+SYLHET-0439,2020-10-28,Domestic Violence,Chowhatta,Evening,1,2,Low,2020,10,October,28,Wednesday,4
+SYLHET-0440,2020-06-29,Theft,Chowhatta,Afternoon,1,2,Low,2020,6,June,29,Monday,2
+SYLHET-0441,2021-08-29,Cybercrime,Shahjalal Upashahar,Afternoon,0,3,Low,2021,8,August,29,Sunday,3
+SYLHET-0442,2023-01-27,Burglary,Moglabazar,Afternoon,1,1,High,2023,1,January,27,Friday,1
+SYLHET-0443,2021-11-30,Theft,Bandar Bazar,Morning,0,2,High,2021,11,November,30,Tuesday,4
+SYLHET-0444,2022-09-19,Assault,Zinda Bazar,Night,0,3,Medium,2022,9,September,19,Monday,3
+SYLHET-0445,2023-02-13,Vandalism,Sunamganj Road,Evening,0,3,Low,2023,2,February,13,Monday,1
+SYLHET-0446,2020-07-09,Fraud,Shahjalal Upashahar,Night,0,4,Low,2020,7,July,9,Thursday,3
+SYLHET-0447,2020-09-09,Drug-related,Bandar Bazar,Night,0,3,High,2020,9,September,9,Wednesday,3
+SYLHET-0448,2022-09-07,Fraud,Jalalabad,Afternoon,1,1,Medium,2022,9,September,7,Wednesday,3
+SYLHET-0449,2022-07-16,Fraud,Tilagor,Night,1,2,Low,2022,7,July,16,Saturday,3
+SYLHET-0450,2023-03-30,Vandalism,Tilagor,Evening,0,3,Medium,2023,3,March,30,Thursday,1
+SYLHET-0451,2023-07-03,Robbery,Zinda Bazar,Night,0,1,Low,2023,7,July,3,Monday,3
+SYLHET-0452,2023-09-08,Assault,Moglabazar,Afternoon,0,3,Low,2023,9,September,8,Friday,3
+SYLHET-0453,2020-05-07,Robbery,Pathantula,Night,0,3,Medium,2020,5,May,7,Thursday,2
+SYLHET-0454,2020-01-18,Cybercrime,Ambarkhana,Evening,0,3,Low,2020,1,January,18,Saturday,1
+SYLHET-0455,2024-12-21,Domestic Violence,Shahjalal Upashahar,Afternoon,0,3,High,2024,12,December,21,Saturday,4
+SYLHET-0456,2024-10-24,Theft,Shahjalal Upashahar,Morning,1,3,Low,2024,10,October,24,Thursday,4
+SYLHET-0457,2021-07-19,Fraud,Sunamganj Road,Night,0,1,Low,2021,7,July,19,Monday,3
+SYLHET-0458,2021-07-23,Domestic Violence,Sunamganj Road,Night,0,2,Low,2021,7,July,23,Friday,3
+SYLHET-0459,2023-09-08,Theft,Tilagor,Afternoon,0,2,High,2023,9,September,8,Friday,3
+SYLHET-0460,2021-11-16,Assault,Tilagor,Evening,0,2,Medium,2021,11,November,16,Tuesday,4
+SYLHET-0461,2024-12-20,Domestic Violence,Moglabazar,Afternoon,0,2,Medium,2024,12,December,20,Friday,4
+SYLHET-0462,2021-09-17,Theft,Rikabibazar,Night,1,1,Low,2021,9,September,17,Friday,3
+SYLHET-0463,2023-08-04,Fraud,Sobhani Ghat,Afternoon,0,4,Low,2023,8,August,4,Friday,3
+SYLHET-0464,2022-05-03,Robbery,Sobhani Ghat,Night,1,4,Medium,2022,5,May,3,Tuesday,2
+SYLHET-0465,2024-08-13,Domestic Violence,Rikabibazar,Afternoon,0,1,High,2024,8,August,13,Tuesday,3
+SYLHET-0466,2022-08-19,Cybercrime,Pathantula,Afternoon,0,1,High,2022,8,August,19,Friday,3
+SYLHET-0467,2024-07-20,Domestic Violence,Sobhani Ghat,Morning,0,3,Low,2024,7,July,20,Saturday,3
+SYLHET-0468,2020-06-03,Assault,Moglabazar,Morning,1,3,Medium,2020,6,June,3,Wednesday,2
+SYLHET-0469,2021-05-04,Vandalism,Ambarkhana,Evening,0,3,High,2021,5,May,4,Tuesday,2
+SYLHET-0470,2023-11-10,Vandalism,Ambarkhana,Afternoon,1,2,Low,2023,11,November,10,Friday,4
+SYLHET-0471,2022-02-23,Robbery,Shahjalal Upashahar,Night,0,3,High,2022,2,February,23,Wednesday,1
+SYLHET-0472,2023-02-01,Drug-related,Chowhatta,Morning,1,4,Low,2023,2,February,1,Wednesday,1
+SYLHET-0473,2023-11-17,Theft,Rikabibazar,Afternoon,0,2,High,2023,11,November,17,Friday,4
+SYLHET-0474,2020-09-02,Assault,Ambarkhana,Afternoon,1,3,High,2020,9,September,2,Wednesday,3
+SYLHET-0475,2023-04-14,Robbery,Bandar Bazar,Morning,0,2,High,2023,4,April,14,Friday,2
+SYLHET-0476,2022-11-28,Theft,Tilagor,Morning,1,4,Medium,2022,11,November,28,Monday,4
+SYLHET-0477,2024-02-09,Theft,Sunamganj Road,Evening,0,3,Low,2024,2,February,9,Friday,1
+SYLHET-0478,2024-09-01,Fraud,Moglabazar,Evening,0,4,High,2024,9,September,1,Sunday,3
+SYLHET-0479,2022-01-28,Robbery,Sobhani Ghat,Evening,0,4,Low,2022,1,January,28,Friday,1
+SYLHET-0480,2021-06-21,Fraud,Rikabibazar,Evening,1,4,Low,2021,6,June,21,Monday,2
+SYLHET-0481,2022-07-09,Theft,Shahjalal Upashahar,Evening,0,3,Medium,2022,7,July,9,Saturday,3
+SYLHET-0482,2021-02-11,Robbery,Zinda Bazar,Morning,1,1,High,2021,2,February,11,Thursday,1
+SYLHET-0483,2021-06-08,Assault,Sunamganj Road,Evening,0,3,High,2021,6,June,8,Tuesday,2
+SYLHET-0484,2022-04-07,Drug-related,Bandar Bazar,Late Night,0,4,Low,2022,4,April,7,Thursday,2
+SYLHET-0485,2024-03-09,Robbery,Sobhani Ghat,Evening,0,3,High,2024,3,March,9,Saturday,1
+SYLHET-0486,2022-06-21,Assault,Bandar Bazar,Night,1,4,Medium,2022,6,June,21,Tuesday,2
+SYLHET-0487,2020-02-05,Domestic Violence,Tilagor,Afternoon,1,1,Low,2020,2,February,5,Wednesday,1
+SYLHET-0488,2021-11-15,Assault,Tilagor,Night,1,2,Low,2021,11,November,15,Monday,4
+SYLHET-0489,2020-01-20,Robbery,Moglabazar,Night,0,1,Low,2020,1,January,20,Monday,1
+SYLHET-0490,2020-11-16,Theft,Pathantula,Evening,1,1,Low,2020,11,November,16,Monday,4
+SYLHET-0491,2024-12-04,Vandalism,Shahjalal Upashahar,Late Night,1,2,High,2024,12,December,4,Wednesday,4
+SYLHET-0492,2021-05-26,Theft,Sunamganj Road,Morning,0,3,Medium,2021,5,May,26,Wednesday,2
+SYLHET-0493,2021-02-03,Vandalism,Jalalabad,Morning,1,2,Medium,2021,2,February,3,Wednesday,1
+SYLHET-0494,2021-10-15,Assault,Jalalabad,Night,1,3,High,2021,10,October,15,Friday,4
+SYLHET-0495,2022-08-29,Domestic Violence,Sunamganj Road,Night,1,3,Low,2022,8,August,29,Monday,3
+SYLHET-0496,2021-04-15,Drug-related,Zinda Bazar,Morning,1,4,High,2021,4,April,15,Thursday,2
+SYLHET-0497,2023-03-12,Cybercrime,Moglabazar,Afternoon,0,4,Medium,2023,3,March,12,Sunday,1
+SYLHET-0498,2023-01-20,Burglary,Shahjalal Upashahar,Morning,0,2,High,2023,1,January,20,Friday,1
+SYLHET-0499,2023-10-09,Drug-related,Bandar Bazar,Afternoon,1,1,Low,2023,10,October,9,Monday,4
+SYLHET-0500,2022-04-13,Burglary,Zinda Bazar,Night,0,2,High,2022,4,April,13,Wednesday,2
+SYLHET-0501,2024-12-28,Assault,Chowhatta,Evening,1,3,Low,2024,12,December,28,Saturday,4
+SYLHET-0502,2021-12-27,Assault,Sunamganj Road,Afternoon,1,4,Low,2021,12,December,27,Monday,4
+SYLHET-0503,2022-05-03,Vandalism,Bandar Bazar,Afternoon,1,2,High,2022,5,May,3,Tuesday,2
+SYLHET-0504,2020-02-20,Cybercrime,Jalalabad,Morning,1,2,Low,2020,2,February,20,Thursday,1
+SYLHET-0505,2024-08-15,Drug-related,Ambarkhana,Afternoon,0,4,Medium,2024,8,August,15,Thursday,3
+SYLHET-0506,2024-09-17,Burglary,Rikabibazar,Evening,0,4,Medium,2024,9,September,17,Tuesday,3
+SYLHET-0507,2021-07-28,Burglary,Pathantula,Late Night,0,4,Medium,2021,7,July,28,Wednesday,3
+SYLHET-0508,2023-04-28,Fraud,Jalalabad,Night,0,3,Low,2023,4,April,28,Friday,2
+SYLHET-0509,2023-02-22,Robbery,Shahjalal Upashahar,Morning,0,4,Low,2023,2,February,22,Wednesday,1
+SYLHET-0510,2020-05-29,Theft,Tilagor,Night,0,1,Low,2020,5,May,29,Friday,2
+SYLHET-0511,2020-11-09,Burglary,Rikabibazar,Night,1,2,Medium,2020,11,November,9,Monday,4
+SYLHET-0512,2021-07-23,Robbery,Rikabibazar,Night,1,4,Low,2021,7,July,23,Friday,3
+SYLHET-0513,2023-09-27,Robbery,Ambarkhana,Evening,0,4,Low,2023,9,September,27,Wednesday,3
+SYLHET-0514,2020-10-31,Robbery,Pathantula,Afternoon,0,3,Low,2020,10,October,31,Saturday,4
+SYLHET-0515,2024-09-11,Theft,Pathantula,Afternoon,1,3,Low,2024,9,September,11,Wednesday,3
+SYLHET-0516,2021-11-12,Theft,Chowhatta,Morning,0,2,Medium,2021,11,November,12,Friday,4
+SYLHET-0517,2022-04-17,Cybercrime,Chowhatta,Afternoon,0,1,High,2022,4,April,17,Sunday,2
+SYLHET-0518,2024-12-11,Burglary,Sobhani Ghat,Afternoon,0,2,Low,2024,12,December,11,Wednesday,4
+SYLHET-0519,2022-12-13,Burglary,Jalalabad,Evening,0,4,Medium,2022,12,December,13,Tuesday,4
+SYLHET-0520,2022-09-29,Fraud,Jalalabad,Night,0,1,Medium,2022,9,September,29,Thursday,3
+SYLHET-0521,2021-03-19,Robbery,Jalalabad,Evening,1,1,Medium,2021,3,March,19,Friday,1
+SYLHET-0522,2021-09-04,Domestic Violence,Sobhani Ghat,Morning,0,1,Medium,2021,9,September,4,Saturday,3
+SYLHET-0523,2022-09-19,Drug-related,Moglabazar,Late Night,0,1,Medium,2022,9,September,19,Monday,3
+SYLHET-0524,2020-09-20,Theft,Zinda Bazar,Late Night,0,2,Medium,2020,9,September,20,Sunday,3
+SYLHET-0525,2022-12-12,Burglary,Pathantula,Night,0,3,Low,2022,12,December,12,Monday,4
+SYLHET-0526,2024-05-14,Vandalism,Ambarkhana,Late Night,1,3,Medium,2024,5,May,14,Tuesday,2
+SYLHET-0527,2022-09-30,Domestic Violence,Shahjalal Upashahar,Evening,1,4,Medium,2022,9,September,30,Friday,3
+SYLHET-0528,2024-07-01,Burglary,Pathantula,Late Night,1,3,Low,2024,7,July,1,Monday,3
+SYLHET-0529,2020-01-05,Assault,Chowhatta,Morning,0,3,Low,2020,1,January,5,Sunday,1
+SYLHET-0530,2023-01-31,Theft,Rikabibazar,Afternoon,1,3,High,2023,1,January,31,Tuesday,1
+SYLHET-0531,2023-05-04,Cybercrime,Bandar Bazar,Afternoon,1,3,Medium,2023,5,May,4,Thursday,2
+SYLHET-0532,2022-02-12,Robbery,Tilagor,Afternoon,1,4,Medium,2022,2,February,12,Saturday,1
+SYLHET-0533,2022-05-26,Domestic Violence,Sobhani Ghat,Morning,0,2,High,2022,5,May,26,Thursday,2
+SYLHET-0534,2022-09-18,Assault,Sunamganj Road,Evening,0,1,Medium,2022,9,September,18,Sunday,3
+SYLHET-0535,2022-06-02,Assault,Bandar Bazar,Night,0,3,Medium,2022,6,June,2,Thursday,2
+SYLHET-0536,2023-10-05,Assault,Shahjalal Upashahar,Evening,1,2,High,2023,10,October,5,Thursday,4
+SYLHET-0537,2020-02-16,Robbery,Jalalabad,Morning,0,3,High,2020,2,February,16,Sunday,1
+SYLHET-0538,2022-05-16,Theft,Chowhatta,Night,0,3,Medium,2022,5,May,16,Monday,2
+SYLHET-0539,2022-04-02,Robbery,Chowhatta,Evening,1,1,Medium,2022,4,April,2,Saturday,2
+SYLHET-0540,2022-07-24,Theft,Chowhatta,Afternoon,1,1,Low,2022,7,July,24,Sunday,3
+SYLHET-0541,2021-10-17,Drug-related,Jalalabad,Night,1,1,High,2021,10,October,17,Sunday,4
+SYLHET-0542,2020-09-25,Burglary,Sunamganj Road,Afternoon,0,3,Medium,2020,9,September,25,Friday,3
+SYLHET-0543,2021-01-04,Theft,Sobhani Ghat,Afternoon,1,3,Low,2021,1,January,4,Monday,1
+SYLHET-0544,2021-09-27,Cybercrime,Bandar Bazar,Late Night,0,3,High,2021,9,September,27,Monday,3
+SYLHET-0545,2023-02-03,Domestic Violence,Jalalabad,Afternoon,0,1,Medium,2023,2,February,3,Friday,1
+SYLHET-0546,2024-08-20,Domestic Violence,Shahjalal Upashahar,Evening,0,4,Low,2024,8,August,20,Tuesday,3
+SYLHET-0547,2024-08-09,Cybercrime,Sobhani Ghat,Night,0,2,Medium,2024,8,August,9,Friday,3
+SYLHET-0548,2021-10-18,Theft,Shahjalal Upashahar,Night,0,4,Medium,2021,10,October,18,Monday,4
+SYLHET-0549,2020-04-29,Burglary,Sobhani Ghat,Morning,1,3,High,2020,4,April,29,Wednesday,2
+SYLHET-0550,2022-04-10,Drug-related,Sunamganj Road,Morning,0,3,Low,2022,4,April,10,Sunday,2
+SYLHET-0551,2024-12-15,Fraud,Tilagor,Morning,1,4,High,2024,12,December,15,Sunday,4
+SYLHET-0552,2024-06-15,Theft,Shahjalal Upashahar,Evening,0,3,Medium,2024,6,June,15,Saturday,2
+SYLHET-0553,2022-12-17,Drug-related,Jalalabad,Evening,0,2,Low,2022,12,December,17,Saturday,4
+SYLHET-0554,2023-10-01,Robbery,Sobhani Ghat,Morning,0,3,High,2023,10,October,1,Sunday,4
+SYLHET-0555,2022-01-10,Robbery,Chowhatta,Late Night,0,2,Medium,2022,1,January,10,Monday,1
+SYLHET-0556,2024-02-06,Assault,Moglabazar,Evening,0,4,Low,2024,2,February,6,Tuesday,1
+SYLHET-0557,2020-04-26,Assault,Pathantula,Afternoon,0,4,Medium,2020,4,April,26,Sunday,2
+SYLHET-0558,2022-03-01,Assault,Chowhatta,Evening,0,3,High,2022,3,March,1,Tuesday,1
+SYLHET-0559,2023-02-24,Theft,Zinda Bazar,Night,0,2,Low,2023,2,February,24,Friday,1
+SYLHET-0560,2023-11-17,Vandalism,Tilagor,Morning,0,3,Low,2023,11,November,17,Friday,4
+SYLHET-0561,2022-10-09,Robbery,Tilagor,Afternoon,1,1,Low,2022,10,October,9,Sunday,4
+SYLHET-0562,2024-07-22,Theft,Chowhatta,Night,0,1,Low,2024,7,July,22,Monday,3
+SYLHET-0563,2022-12-17,Domestic Violence,Bandar Bazar,Evening,1,1,High,2022,12,December,17,Saturday,4
+SYLHET-0564,2021-09-25,Cybercrime,Sunamganj Road,Evening,1,1,Medium,2021,9,September,25,Saturday,3
+SYLHET-0565,2021-05-27,Vandalism,Shahjalal Upashahar,Evening,1,3,Low,2021,5,May,27,Thursday,2
+SYLHET-0566,2024-11-09,Drug-related,Jalalabad,Morning,1,1,Low,2024,11,November,9,Saturday,4
+SYLHET-0567,2022-03-12,Fraud,Tilagor,Afternoon,0,2,Low,2022,3,March,12,Saturday,1
+SYLHET-0568,2023-01-24,Assault,Chowhatta,Evening,1,4,High,2023,1,January,24,Tuesday,1
+SYLHET-0569,2024-07-19,Theft,Chowhatta,Afternoon,1,4,Low,2024,7,July,19,Friday,3
+SYLHET-0570,2023-02-15,Burglary,Sunamganj Road,Morning,0,1,High,2023,2,February,15,Wednesday,1
+SYLHET-0571,2021-07-13,Burglary,Sunamganj Road,Night,0,1,Medium,2021,7,July,13,Tuesday,3
+SYLHET-0572,2024-06-12,Robbery,Ambarkhana,Late Night,0,1,Low,2024,6,June,12,Wednesday,2
+SYLHET-0573,2021-05-02,Fraud,Ambarkhana,Night,1,3,High,2021,5,May,2,Sunday,2
+SYLHET-0574,2023-06-14,Assault,Bandar Bazar,Night,1,4,Medium,2023,6,June,14,Wednesday,2
+SYLHET-0575,2022-06-15,Theft,Moglabazar,Afternoon,0,1,Medium,2022,6,June,15,Wednesday,2
+SYLHET-0576,2023-07-19,Robbery,Moglabazar,Late Night,0,2,High,2023,7,July,19,Wednesday,3
+SYLHET-0577,2023-04-27,Fraud,Bandar Bazar,Afternoon,0,1,Low,2023,4,April,27,Thursday,2
+SYLHET-0578,2021-12-04,Theft,Zinda Bazar,Late Night,0,4,Low,2021,12,December,4,Saturday,4
+SYLHET-0579,2024-01-10,Vandalism,Bandar Bazar,Late Night,1,1,Medium,2024,1,January,10,Wednesday,1
+SYLHET-0580,2021-08-03,Assault,Sobhani Ghat,Night,0,4,Low,2021,8,August,3,Tuesday,3
+SYLHET-0581,2022-02-28,Assault,Sunamganj Road,Late Night,0,1,Low,2022,2,February,28,Monday,1
+SYLHET-0582,2022-05-10,Assault,Moglabazar,Evening,0,2,Low,2022,5,May,10,Tuesday,2
+SYLHET-0583,2020-09-03,Drug-related,Jalalabad,Afternoon,1,1,Low,2020,9,September,3,Thursday,3
+SYLHET-0584,2023-01-04,Robbery,Sobhani Ghat,Evening,0,2,High,2023,1,January,4,Wednesday,1
+SYLHET-0585,2020-06-02,Fraud,Shahjalal Upashahar,Evening,1,2,Low,2020,6,June,2,Tuesday,2
+SYLHET-0586,2024-08-06,Assault,Chowhatta,Morning,0,1,Medium,2024,8,August,6,Tuesday,3
+SYLHET-0587,2023-12-29,Robbery,Bandar Bazar,Evening,0,2,Medium,2023,12,December,29,Friday,4
+SYLHET-0588,2022-09-23,Vandalism,Chowhatta,Late Night,0,3,Medium,2022,9,September,23,Friday,3
+SYLHET-0589,2023-01-14,Drug-related,Tilagor,Afternoon,0,1,Low,2023,1,January,14,Saturday,1
+SYLHET-0590,2021-11-27,Fraud,Zinda Bazar,Night,0,1,High,2021,11,November,27,Saturday,4
+SYLHET-0591,2023-08-01,Vandalism,Tilagor,Late Night,1,2,Low,2023,8,August,1,Tuesday,3
+SYLHET-0592,2023-05-28,Vandalism,Zinda Bazar,Late Night,1,2,High,2023,5,May,28,Sunday,2
+SYLHET-0593,2022-12-28,Fraud,Ambarkhana,Late Night,1,1,High,2022,12,December,28,Wednesday,4
+SYLHET-0594,2022-12-06,Vandalism,Chowhatta,Evening,0,3,Medium,2022,12,December,6,Tuesday,4
+SYLHET-0595,2022-10-05,Fraud,Zinda Bazar,Late Night,1,2,Medium,2022,10,October,5,Wednesday,4
+SYLHET-0596,2020-04-03,Fraud,Rikabibazar,Night,0,2,Medium,2020,4,April,3,Friday,2
+SYLHET-0597,2024-11-08,Assault,Moglabazar,Afternoon,0,4,Low,2024,11,November,8,Friday,4
+SYLHET-0598,2022-08-15,Drug-related,Rikabibazar,Evening,0,3,High,2022,8,August,15,Monday,3
+SYLHET-0599,2022-10-08,Theft,Rikabibazar,Night,0,3,High,2022,10,October,8,Saturday,4
+SYLHET-0600,2021-03-28,Domestic Violence,Pathantula,Afternoon,1,1,Low,2021,3,March,28,Sunday,1
+SYLHET-0601,2023-05-12,Vandalism,Moglabazar,Evening,0,3,Medium,2023,5,May,12,Friday,2
+SYLHET-0602,2022-06-30,Theft,Sobhani Ghat,Night,0,1,High,2022,6,June,30,Thursday,2
+SYLHET-0603,2020-08-05,Drug-related,Zinda Bazar,Afternoon,1,4,High,2020,8,August,5,Wednesday,3
+SYLHET-0604,2021-04-18,Theft,Zinda Bazar,Evening,0,3,Medium,2021,4,April,18,Sunday,2
+SYLHET-0605,2021-03-07,Robbery,Sobhani Ghat,Night,0,2,Medium,2021,3,March,7,Sunday,1
+SYLHET-0606,2020-12-06,Fraud,Chowhatta,Evening,0,4,Low,2020,12,December,6,Sunday,4
+SYLHET-0607,2021-07-04,Theft,Chowhatta,Morning,1,1,High,2021,7,July,4,Sunday,3
+SYLHET-0608,2024-06-23,Drug-related,Rikabibazar,Morning,1,4,Low,2024,6,June,23,Sunday,2
+SYLHET-0609,2023-08-05,Vandalism,Sobhani Ghat,Afternoon,0,1,Medium,2023,8,August,5,Saturday,3
+SYLHET-0610,2023-07-01,Assault,Moglabazar,Late Night,0,4,Low,2023,7,July,1,Saturday,3
+SYLHET-0611,2024-10-23,Theft,Rikabibazar,Afternoon,0,1,Low,2024,10,October,23,Wednesday,4
+SYLHET-0612,2020-12-22,Robbery,Tilagor,Evening,1,3,Medium,2020,12,December,22,Tuesday,4
+SYLHET-0613,2020-01-23,Assault,Pathantula,Afternoon,0,2,High,2020,1,January,23,Thursday,1
+SYLHET-0614,2024-11-20,Cybercrime,Jalalabad,Afternoon,0,1,Low,2024,11,November,20,Wednesday,4
+SYLHET-0615,2021-06-05,Assault,Shahjalal Upashahar,Night,0,4,Medium,2021,6,June,5,Saturday,2
+SYLHET-0616,2024-11-16,Robbery,Pathantula,Night,0,1,Low,2024,11,November,16,Saturday,4
+SYLHET-0617,2023-01-28,Assault,Chowhatta,Morning,0,1,Low,2023,1,January,28,Saturday,1
+SYLHET-0618,2022-03-12,Assault,Jalalabad,Evening,1,1,Medium,2022,3,March,12,Saturday,1
+SYLHET-0619,2023-04-18,Drug-related,Ambarkhana,Morning,0,4,Medium,2023,4,April,18,Tuesday,2
+SYLHET-0620,2023-05-31,Theft,Bandar Bazar,Evening,0,2,Low,2023,5,May,31,Wednesday,2
+SYLHET-0621,2022-01-31,Drug-related,Rikabibazar,Night,1,3,Low,2022,1,January,31,Monday,1
+SYLHET-0622,2024-08-09,Assault,Zinda Bazar,Morning,1,2,Low,2024,8,August,9,Friday,3
+SYLHET-0623,2021-03-17,Cybercrime,Sobhani Ghat,Afternoon,0,1,Low,2021,3,March,17,Wednesday,1
+SYLHET-0624,2024-06-19,Robbery,Sobhani Ghat,Afternoon,0,4,High,2024,6,June,19,Wednesday,2
+SYLHET-0625,2022-02-07,Assault,Zinda Bazar,Late Night,0,2,High,2022,2,February,7,Monday,1
+SYLHET-0626,2022-10-12,Domestic Violence,Rikabibazar,Late Night,1,1,Low,2022,10,October,12,Wednesday,4
+SYLHET-0627,2023-09-10,Theft,Bandar Bazar,Morning,0,3,Medium,2023,9,September,10,Sunday,3
+SYLHET-0628,2021-05-30,Domestic Violence,Shahjalal Upashahar,Night,1,3,High,2021,5,May,30,Sunday,2
+SYLHET-0629,2022-11-05,Fraud,Bandar Bazar,Afternoon,1,3,Low,2022,11,November,5,Saturday,4
+SYLHET-0630,2022-03-02,Theft,Jalalabad,Afternoon,0,1,High,2022,3,March,2,Wednesday,1
+SYLHET-0631,2020-12-01,Robbery,Bandar Bazar,Night,0,4,High,2020,12,December,1,Tuesday,4
+SYLHET-0632,2024-11-17,Fraud,Jalalabad,Late Night,0,2,Low,2024,11,November,17,Sunday,4
+SYLHET-0633,2020-09-14,Theft,Bandar Bazar,Late Night,0,3,Low,2020,9,September,14,Monday,3
+SYLHET-0634,2021-05-11,Assault,Shahjalal Upashahar,Evening,0,1,High,2021,5,May,11,Tuesday,2
+SYLHET-0635,2022-06-14,Robbery,Shahjalal Upashahar,Afternoon,1,1,Medium,2022,6,June,14,Tuesday,2
+SYLHET-0636,2020-06-08,Assault,Chowhatta,Night,1,2,Low,2020,6,June,8,Monday,2
+SYLHET-0637,2024-02-07,Theft,Zinda Bazar,Afternoon,0,3,Low,2024,2,February,7,Wednesday,1
+SYLHET-0638,2022-05-01,Vandalism,Shahjalal Upashahar,Evening,1,1,Medium,2022,5,May,1,Sunday,2
+SYLHET-0639,2024-08-14,Cybercrime,Jalalabad,Afternoon,0,2,Medium,2024,8,August,14,Wednesday,3
+SYLHET-0640,2021-11-20,Cybercrime,Shahjalal Upashahar,Night,0,4,Medium,2021,11,November,20,Saturday,4
+SYLHET-0641,2024-08-25,Fraud,Chowhatta,Afternoon,0,4,High,2024,8,August,25,Sunday,3
+SYLHET-0642,2021-01-14,Theft,Sobhani Ghat,Afternoon,1,4,Low,2021,1,January,14,Thursday,1
+SYLHET-0643,2024-04-17,Drug-related,Jalalabad,Late Night,1,3,Medium,2024,4,April,17,Wednesday,2
+SYLHET-0644,2022-08-14,Theft,Chowhatta,Morning,1,2,Medium,2022,8,August,14,Sunday,3
+SYLHET-0645,2021-11-21,Theft,Tilagor,Evening,0,2,Medium,2021,11,November,21,Sunday,4
+SYLHET-0646,2023-12-21,Robbery,Tilagor,Afternoon,0,1,Low,2023,12,December,21,Thursday,4
+SYLHET-0647,2024-06-24,Assault,Ambarkhana,Morning,0,1,High,2024,6,June,24,Monday,2
+SYLHET-0648,2023-07-15,Drug-related,Bandar Bazar,Morning,0,1,High,2023,7,July,15,Saturday,3
+SYLHET-0649,2024-05-19,Fraud,Zinda Bazar,Afternoon,1,2,Medium,2024,5,May,19,Sunday,2
+SYLHET-0650,2023-12-11,Burglary,Sunamganj Road,Night,1,1,Medium,2023,12,December,11,Monday,4
+SYLHET-0651,2023-04-06,Robbery,Pathantula,Afternoon,1,2,Low,2023,4,April,6,Thursday,2
+SYLHET-0652,2022-12-02,Cybercrime,Chowhatta,Late Night,0,2,Medium,2022,12,December,2,Friday,4
+SYLHET-0653,2024-04-28,Burglary,Sobhani Ghat,Evening,0,4,Medium,2024,4,April,28,Sunday,2
+SYLHET-0654,2020-10-11,Burglary,Pathantula,Evening,0,1,Medium,2020,10,October,11,Sunday,4
+SYLHET-0655,2021-01-31,Theft,Sobhani Ghat,Evening,0,4,High,2021,1,January,31,Sunday,1
+SYLHET-0656,2020-01-12,Drug-related,Moglabazar,Evening,0,3,Medium,2020,1,January,12,Sunday,1
+SYLHET-0657,2024-06-18,Fraud,Moglabazar,Night,1,3,Low,2024,6,June,18,Tuesday,2
+SYLHET-0658,2023-08-18,Robbery,Moglabazar,Afternoon,1,3,High,2023,8,August,18,Friday,3
+SYLHET-0659,2023-06-30,Theft,Pathantula,Afternoon,0,2,Low,2023,6,June,30,Friday,2
+SYLHET-0660,2021-05-13,Fraud,Chowhatta,Night,0,2,Low,2021,5,May,13,Thursday,2
+SYLHET-0661,2022-01-23,Fraud,Sunamganj Road,Late Night,0,2,Low,2022,1,January,23,Sunday,1
+SYLHET-0662,2020-02-04,Robbery,Pathantula,Night,0,1,Medium,2020,2,February,4,Tuesday,1
+SYLHET-0663,2021-12-27,Cybercrime,Chowhatta,Evening,1,4,High,2021,12,December,27,Monday,4
+SYLHET-0664,2022-04-28,Theft,Shahjalal Upashahar,Night,0,2,Medium,2022,4,April,28,Thursday,2
+SYLHET-0665,2020-03-30,Burglary,Sunamganj Road,Evening,0,4,High,2020,3,March,30,Monday,1
+SYLHET-0666,2022-02-14,Domestic Violence,Moglabazar,Evening,0,4,Medium,2022,2,February,14,Monday,1
+SYLHET-0667,2021-08-27,Burglary,Jalalabad,Afternoon,1,4,Low,2021,8,August,27,Friday,3
+SYLHET-0668,2022-08-27,Assault,Sobhani Ghat,Evening,0,1,High,2022,8,August,27,Saturday,3
+SYLHET-0669,2024-06-13,Burglary,Moglabazar,Afternoon,0,1,Low,2024,6,June,13,Thursday,2
+SYLHET-0670,2022-10-18,Robbery,Tilagor,Afternoon,0,3,Low,2022,10,October,18,Tuesday,4
+SYLHET-0671,2021-02-21,Cybercrime,Bandar Bazar,Night,1,3,Medium,2021,2,February,21,Sunday,1
+SYLHET-0672,2020-04-24,Burglary,Tilagor,Afternoon,1,4,Low,2020,4,April,24,Friday,2
+SYLHET-0673,2021-09-08,Domestic Violence,Moglabazar,Morning,0,3,Low,2021,9,September,8,Wednesday,3
+SYLHET-0674,2023-05-04,Robbery,Sunamganj Road,Morning,1,4,Medium,2023,5,May,4,Thursday,2
+SYLHET-0675,2022-04-05,Robbery,Jalalabad,Late Night,1,1,Medium,2022,4,April,5,Tuesday,2
+SYLHET-0676,2024-03-04,Theft,Sobhani Ghat,Evening,1,1,Medium,2024,3,March,4,Monday,1
+SYLHET-0677,2024-07-07,Fraud,Jalalabad,Evening,1,1,High,2024,7,July,7,Sunday,3
+SYLHET-0678,2024-02-25,Burglary,Pathantula,Night,1,2,Medium,2024,2,February,25,Sunday,1
+SYLHET-0679,2023-01-03,Vandalism,Sobhani Ghat,Night,0,4,High,2023,1,January,3,Tuesday,1
+SYLHET-0680,2021-02-16,Assault,Moglabazar,Afternoon,1,1,Low,2021,2,February,16,Tuesday,1
+SYLHET-0681,2023-10-31,Cybercrime,Pathantula,Night,0,4,Medium,2023,10,October,31,Tuesday,4
+SYLHET-0682,2023-12-14,Theft,Chowhatta,Night,1,3,High,2023,12,December,14,Thursday,4
+SYLHET-0683,2021-12-29,Vandalism,Sunamganj Road,Night,0,3,Medium,2021,12,December,29,Wednesday,4
+SYLHET-0684,2023-07-24,Drug-related,Rikabibazar,Afternoon,1,1,Medium,2023,7,July,24,Monday,3
+SYLHET-0685,2022-10-17,Drug-related,Chowhatta,Night,1,4,Low,2022,10,October,17,Monday,4
+SYLHET-0686,2022-01-30,Vandalism,Ambarkhana,Evening,0,1,Low,2022,1,January,30,Sunday,1
+SYLHET-0687,2021-11-06,Drug-related,Jalalabad,Afternoon,1,3,Medium,2021,11,November,6,Saturday,4
+SYLHET-0688,2023-11-18,Assault,Rikabibazar,Evening,0,1,Low,2023,11,November,18,Saturday,4
+SYLHET-0689,2021-04-01,Theft,Pathantula,Morning,1,4,High,2021,4,April,1,Thursday,2
+SYLHET-0690,2022-07-08,Theft,Shahjalal Upashahar,Morning,0,3,Low,2022,7,July,8,Friday,3
+SYLHET-0691,2020-07-10,Domestic Violence,Chowhatta,Night,0,2,High,2020,7,July,10,Friday,3
+SYLHET-0692,2022-01-08,Assault,Ambarkhana,Morning,1,3,High,2022,1,January,8,Saturday,1
+SYLHET-0693,2024-09-08,Drug-related,Zinda Bazar,Evening,0,2,Low,2024,9,September,8,Sunday,3
+SYLHET-0694,2023-01-27,Assault,Rikabibazar,Evening,1,1,Low,2023,1,January,27,Friday,1
+SYLHET-0695,2024-04-20,Theft,Tilagor,Morning,0,1,High,2024,4,April,20,Saturday,2
+SYLHET-0696,2022-09-04,Theft,Sobhani Ghat,Late Night,0,4,High,2022,9,September,4,Sunday,3
+SYLHET-0697,2022-10-05,Fraud,Ambarkhana,Afternoon,0,2,Medium,2022,10,October,5,Wednesday,4
+SYLHET-0698,2020-04-05,Burglary,Sunamganj Road,Afternoon,0,1,Low,2020,4,April,5,Sunday,2
+SYLHET-0699,2024-08-14,Robbery,Rikabibazar,Afternoon,0,2,Medium,2024,8,August,14,Wednesday,3
+SYLHET-0700,2021-10-24,Assault,Chowhatta,Afternoon,0,1,Medium,2021,10,October,24,Sunday,4
+SYLHET-0701,2023-04-28,Theft,Sunamganj Road,Morning,0,3,Low,2023,4,April,28,Friday,2
+SYLHET-0702,2024-10-25,Assault,Tilagor,Night,0,1,Medium,2024,10,October,25,Friday,4
+SYLHET-0703,2020-02-06,Robbery,Shahjalal Upashahar,Late Night,1,4,Low,2020,2,February,6,Thursday,1
+SYLHET-0704,2024-12-08,Drug-related,Jalalabad,Afternoon,1,3,Low,2024,12,December,8,Sunday,4
+SYLHET-0705,2023-10-24,Robbery,Jalalabad,Night,0,4,Low,2023,10,October,24,Tuesday,4
+SYLHET-0706,2024-09-14,Burglary,Moglabazar,Night,1,3,Low,2024,9,September,14,Saturday,3
+SYLHET-0707,2024-03-28,Theft,Sunamganj Road,Night,0,2,Low,2024,3,March,28,Thursday,1
+SYLHET-0708,2020-10-05,Theft,Pathantula,Evening,1,4,Medium,2020,10,October,5,Monday,4
+SYLHET-0709,2020-08-04,Burglary,Shahjalal Upashahar,Afternoon,1,1,Low,2020,8,August,4,Tuesday,3
+SYLHET-0710,2022-05-16,Assault,Jalalabad,Afternoon,1,2,Low,2022,5,May,16,Monday,2
+SYLHET-0711,2022-05-22,Assault,Shahjalal Upashahar,Night,0,1,Low,2022,5,May,22,Sunday,2
+SYLHET-0712,2024-12-26,Robbery,Ambarkhana,Night,1,3,High,2024,12,December,26,Thursday,4
+SYLHET-0713,2023-07-20,Fraud,Shahjalal Upashahar,Afternoon,0,3,Medium,2023,7,July,20,Thursday,3
+SYLHET-0714,2020-03-02,Vandalism,Bandar Bazar,Afternoon,1,1,Medium,2020,3,March,2,Monday,1
+SYLHET-0715,2021-08-18,Drug-related,Tilagor,Late Night,0,1,Medium,2021,8,August,18,Wednesday,3
+SYLHET-0716,2021-12-29,Theft,Jalalabad,Night,1,2,High,2021,12,December,29,Wednesday,4
+SYLHET-0717,2023-09-27,Assault,Shahjalal Upashahar,Late Night,1,1,Low,2023,9,September,27,Wednesday,3
+SYLHET-0718,2021-01-31,Theft,Sunamganj Road,Night,1,4,Medium,2021,1,January,31,Sunday,1
+SYLHET-0719,2021-11-29,Robbery,Zinda Bazar,Afternoon,0,4,Medium,2021,11,November,29,Monday,4
+SYLHET-0720,2022-11-08,Cybercrime,Bandar Bazar,Evening,1,1,Medium,2022,11,November,8,Tuesday,4
+SYLHET-0721,2020-06-25,Theft,Bandar Bazar,Night,0,4,Low,2020,6,June,25,Thursday,2
+SYLHET-0722,2024-06-23,Assault,Pathantula,Morning,1,1,Medium,2024,6,June,23,Sunday,2
+SYLHET-0723,2021-01-30,Assault,Shahjalal Upashahar,Evening,0,2,Low,2021,1,January,30,Saturday,1
+SYLHET-0724,2021-03-20,Fraud,Moglabazar,Night,0,4,Medium,2021,3,March,20,Saturday,1
+SYLHET-0725,2023-06-10,Assault,Pathantula,Afternoon,0,4,Medium,2023,6,June,10,Saturday,2
+SYLHET-0726,2020-03-16,Theft,Pathantula,Night,0,1,Low,2020,3,March,16,Monday,1
+SYLHET-0727,2020-09-21,Robbery,Zinda Bazar,Evening,0,4,High,2020,9,September,21,Monday,3
+SYLHET-0728,2021-03-30,Assault,Ambarkhana,Late Night,0,3,Low,2021,3,March,30,Tuesday,1
+SYLHET-0729,2024-12-24,Theft,Shahjalal Upashahar,Morning,0,2,High,2024,12,December,24,Tuesday,4
+SYLHET-0730,2021-12-18,Burglary,Chowhatta,Afternoon,1,2,Medium,2021,12,December,18,Saturday,4
+SYLHET-0731,2022-01-04,Theft,Jalalabad,Evening,1,4,Low,2022,1,January,4,Tuesday,1
+SYLHET-0732,2023-11-08,Theft,Pathantula,Afternoon,0,4,Low,2023,11,November,8,Wednesday,4
+SYLHET-0733,2024-05-06,Burglary,Tilagor,Night,0,3,High,2024,5,May,6,Monday,2
+SYLHET-0734,2022-04-30,Theft,Sobhani Ghat,Night,0,3,Low,2022,4,April,30,Saturday,2
+SYLHET-0735,2024-03-09,Assault,Tilagor,Morning,0,4,Low,2024,3,March,9,Saturday,1
+SYLHET-0736,2023-10-22,Fraud,Zinda Bazar,Evening,1,4,Low,2023,10,October,22,Sunday,4
+SYLHET-0737,2020-05-23,Drug-related,Zinda Bazar,Evening,1,3,Medium,2020,5,May,23,Saturday,2
+SYLHET-0738,2022-06-03,Robbery,Sunamganj Road,Afternoon,0,1,Medium,2022,6,June,3,Friday,2
+SYLHET-0739,2022-12-28,Theft,Ambarkhana,Late Night,0,3,Low,2022,12,December,28,Wednesday,4
+SYLHET-0740,2023-01-27,Theft,Moglabazar,Night,0,1,Low,2023,1,January,27,Friday,1
+SYLHET-0741,2021-01-30,Assault,Jalalabad,Night,1,2,Low,2021,1,January,30,Saturday,1
+SYLHET-0742,2022-11-14,Fraud,Rikabibazar,Night,1,2,Low,2022,11,November,14,Monday,4
+SYLHET-0743,2022-08-05,Theft,Pathantula,Evening,0,3,Medium,2022,8,August,5,Friday,3
+SYLHET-0744,2022-06-09,Domestic Violence,Tilagor,Late Night,0,1,Medium,2022,6,June,9,Thursday,2
+SYLHET-0745,2024-02-01,Theft,Sobhani Ghat,Night,1,3,Low,2024,2,February,1,Thursday,1
+SYLHET-0746,2024-02-16,Assault,Zinda Bazar,Night,1,3,Low,2024,2,February,16,Friday,1
+SYLHET-0747,2024-05-07,Fraud,Zinda Bazar,Night,0,1,Low,2024,5,May,7,Tuesday,2
+SYLHET-0748,2023-03-20,Vandalism,Ambarkhana,Afternoon,0,3,High,2023,3,March,20,Monday,1
+SYLHET-0749,2023-03-13,Fraud,Sobhani Ghat,Night,0,2,High,2023,3,March,13,Monday,1
+SYLHET-0750,2021-07-22,Drug-related,Sobhani Ghat,Afternoon,0,4,High,2021,7,July,22,Thursday,3
+SYLHET-0751,2022-11-28,Robbery,Ambarkhana,Afternoon,0,4,Low,2022,11,November,28,Monday,4
+SYLHET-0752,2020-04-18,Drug-related,Zinda Bazar,Afternoon,0,3,Low,2020,4,April,18,Saturday,2
+SYLHET-0753,2024-09-12,Theft,Jalalabad,Late Night,0,1,Low,2024,9,September,12,Thursday,3
+SYLHET-0754,2022-12-01,Domestic Violence,Shahjalal Upashahar,Night,0,1,Low,2022,12,December,1,Thursday,4
+SYLHET-0755,2023-04-24,Assault,Shahjalal Upashahar,Night,1,2,Medium,2023,4,April,24,Monday,2
+SYLHET-0756,2022-07-23,Drug-related,Ambarkhana,Night,0,1,High,2022,7,July,23,Saturday,3
+SYLHET-0757,2021-02-01,Burglary,Sobhani Ghat,Evening,0,1,High,2021,2,February,1,Monday,1
+SYLHET-0758,2023-05-31,Assault,Pathantula,Late Night,0,2,High,2023,5,May,31,Wednesday,2
+SYLHET-0759,2021-09-25,Assault,Ambarkhana,Evening,0,3,Low,2021,9,September,25,Saturday,3
+SYLHET-0760,2023-03-02,Fraud,Jalalabad,Afternoon,1,4,Medium,2023,3,March,2,Thursday,1
+SYLHET-0761,2023-04-01,Theft,Ambarkhana,Afternoon,0,2,Low,2023,4,April,1,Saturday,2
+SYLHET-0762,2023-05-23,Theft,Bandar Bazar,Night,0,3,Low,2023,5,May,23,Tuesday,2
+SYLHET-0763,2022-01-02,Robbery,Tilagor,Night,1,2,Medium,2022,1,January,2,Sunday,1
+SYLHET-0764,2020-08-22,Theft,Sobhani Ghat,Afternoon,0,3,Low,2020,8,August,22,Saturday,3
+SYLHET-0765,2021-10-19,Vandalism,Moglabazar,Morning,1,2,Medium,2021,10,October,19,Tuesday,4
+SYLHET-0766,2022-01-20,Robbery,Sunamganj Road,Night,0,3,Low,2022,1,January,20,Thursday,1
+SYLHET-0767,2021-08-10,Cybercrime,Sunamganj Road,Morning,0,2,Medium,2021,8,August,10,Tuesday,3
+SYLHET-0768,2022-10-29,Robbery,Sobhani Ghat,Night,0,3,High,2022,10,October,29,Saturday,4
+SYLHET-0769,2023-01-02,Theft,Moglabazar,Late Night,0,2,Low,2023,1,January,2,Monday,1
+SYLHET-0770,2022-08-11,Drug-related,Rikabibazar,Evening,1,4,High,2022,8,August,11,Thursday,3
+SYLHET-0771,2021-05-06,Fraud,Jalalabad,Afternoon,1,4,Low,2021,5,May,6,Thursday,2
+SYLHET-0772,2022-07-01,Assault,Bandar Bazar,Night,0,1,Medium,2022,7,July,1,Friday,3
+SYLHET-0773,2023-06-30,Assault,Bandar Bazar,Night,0,3,Medium,2023,6,June,30,Friday,2
+SYLHET-0774,2023-06-07,Fraud,Zinda Bazar,Evening,1,2,Medium,2023,6,June,7,Wednesday,2
+SYLHET-0775,2024-03-22,Robbery,Tilagor,Late Night,1,3,High,2024,3,March,22,Friday,1
+SYLHET-0776,2023-04-12,Cybercrime,Shahjalal Upashahar,Morning,0,4,Low,2023,4,April,12,Wednesday,2
+SYLHET-0777,2024-08-03,Cybercrime,Chowhatta,Evening,0,3,Medium,2024,8,August,3,Saturday,3
+SYLHET-0778,2023-04-06,Fraud,Jalalabad,Night,0,2,Medium,2023,4,April,6,Thursday,2
+SYLHET-0779,2020-06-18,Theft,Chowhatta,Night,1,3,High,2020,6,June,18,Thursday,2
+SYLHET-0780,2023-11-17,Fraud,Chowhatta,Afternoon,0,2,Low,2023,11,November,17,Friday,4
+SYLHET-0781,2022-08-03,Theft,Sobhani Ghat,Night,0,4,High,2022,8,August,3,Wednesday,3
+SYLHET-0782,2022-03-05,Theft,Sunamganj Road,Evening,1,4,Medium,2022,3,March,5,Saturday,1
+SYLHET-0783,2021-09-25,Robbery,Sunamganj Road,Afternoon,0,4,Low,2021,9,September,25,Saturday,3
+SYLHET-0784,2023-05-02,Burglary,Shahjalal Upashahar,Morning,0,1,Medium,2023,5,May,2,Tuesday,2
+SYLHET-0785,2024-03-20,Vandalism,Sobhani Ghat,Night,0,4,Low,2024,3,March,20,Wednesday,1
+SYLHET-0786,2020-01-29,Fraud,Chowhatta,Afternoon,0,3,Medium,2020,1,January,29,Wednesday,1
+SYLHET-0787,2023-04-03,Fraud,Moglabazar,Afternoon,0,1,High,2023,4,April,3,Monday,2
+SYLHET-0788,2023-12-16,Burglary,Rikabibazar,Afternoon,0,4,Medium,2023,12,December,16,Saturday,4
+SYLHET-0789,2020-12-04,Robbery,Pathantula,Night,0,3,Medium,2020,12,December,4,Friday,4
+SYLHET-0790,2024-07-29,Burglary,Sunamganj Road,Night,0,3,Medium,2024,7,July,29,Monday,3
+SYLHET-0791,2024-02-28,Cybercrime,Jalalabad,Night,1,3,Low,2024,2,February,28,Wednesday,1
+SYLHET-0792,2023-10-20,Theft,Moglabazar,Afternoon,1,2,Low,2023,10,October,20,Friday,4
+SYLHET-0793,2023-09-27,Vandalism,Jalalabad,Evening,0,1,Medium,2023,9,September,27,Wednesday,3
+SYLHET-0794,2021-05-14,Assault,Zinda Bazar,Evening,0,3,Low,2021,5,May,14,Friday,2
+SYLHET-0795,2024-08-07,Burglary,Ambarkhana,Night,0,2,Low,2024,8,August,7,Wednesday,3
+SYLHET-0796,2021-05-25,Fraud,Pathantula,Late Night,0,4,Medium,2021,5,May,25,Tuesday,2
+SYLHET-0797,2023-09-12,Assault,Sunamganj Road,Morning,0,3,Low,2023,9,September,12,Tuesday,3
+SYLHET-0798,2020-08-04,Vandalism,Bandar Bazar,Night,1,2,Low,2020,8,August,4,Tuesday,3
+SYLHET-0799,2023-08-17,Domestic Violence,Sunamganj Road,Morning,0,3,Medium,2023,8,August,17,Thursday,3
+SYLHET-0800,2023-03-01,Burglary,Moglabazar,Evening,0,1,Low,2023,3,March,1,Wednesday,1
+SYLHET-0801,2022-12-29,Robbery,Zinda Bazar,Afternoon,0,1,High,2022,12,December,29,Thursday,4
+SYLHET-0802,2023-06-29,Assault,Jalalabad,Afternoon,1,4,High,2023,6,June,29,Thursday,2
+SYLHET-0803,2023-12-09,Domestic Violence,Chowhatta,Afternoon,0,3,Medium,2023,12,December,9,Saturday,4
+SYLHET-0804,2024-12-15,Robbery,Bandar Bazar,Evening,1,2,Low,2024,12,December,15,Sunday,4
+SYLHET-0805,2021-03-20,Assault,Sobhani Ghat,Afternoon,0,4,High,2021,3,March,20,Saturday,1
+SYLHET-0806,2022-05-25,Assault,Tilagor,Night,1,3,High,2022,5,May,25,Wednesday,2
+SYLHET-0807,2023-04-20,Fraud,Chowhatta,Evening,1,4,High,2023,4,April,20,Thursday,2
+SYLHET-0808,2020-06-15,Theft,Tilagor,Morning,0,2,Low,2020,6,June,15,Monday,2
+SYLHET-0809,2020-03-31,Fraud,Pathantula,Night,0,4,Medium,2020,3,March,31,Tuesday,1
+SYLHET-0810,2021-12-14,Domestic Violence,Rikabibazar,Afternoon,0,4,High,2021,12,December,14,Tuesday,4
+SYLHET-0811,2024-04-03,Theft,Ambarkhana,Evening,0,4,Medium,2024,4,April,3,Wednesday,2
+SYLHET-0812,2020-02-08,Robbery,Rikabibazar,Night,1,3,Medium,2020,2,February,8,Saturday,1
+SYLHET-0813,2023-02-23,Cybercrime,Bandar Bazar,Afternoon,1,2,Medium,2023,2,February,23,Thursday,1
+SYLHET-0814,2024-01-14,Theft,Shahjalal Upashahar,Morning,1,1,Medium,2024,1,January,14,Sunday,1
+SYLHET-0815,2020-06-21,Vandalism,Bandar Bazar,Afternoon,1,3,Low,2020,6,June,21,Sunday,2
+SYLHET-0816,2021-10-14,Assault,Rikabibazar,Late Night,0,1,Medium,2021,10,October,14,Thursday,4
+SYLHET-0817,2022-01-23,Robbery,Sunamganj Road,Evening,0,1,Low,2022,1,January,23,Sunday,1
+SYLHET-0818,2023-05-28,Vandalism,Moglabazar,Night,1,3,Medium,2023,5,May,28,Sunday,2
+SYLHET-0819,2024-07-19,Burglary,Jalalabad,Evening,0,3,Low,2024,7,July,19,Friday,3
+SYLHET-0820,2022-12-17,Assault,Sunamganj Road,Afternoon,1,2,Medium,2022,12,December,17,Saturday,4
+SYLHET-0821,2024-08-10,Burglary,Sunamganj Road,Evening,0,2,Low,2024,8,August,10,Saturday,3
+SYLHET-0822,2021-04-20,Assault,Moglabazar,Night,0,4,Medium,2021,4,April,20,Tuesday,2
+SYLHET-0823,2021-03-31,Theft,Moglabazar,Morning,1,1,High,2021,3,March,31,Wednesday,1
+SYLHET-0824,2022-04-08,Burglary,Pathantula,Afternoon,0,2,Low,2022,4,April,8,Friday,2
+SYLHET-0825,2022-06-13,Cybercrime,Chowhatta,Afternoon,1,4,Low,2022,6,June,13,Monday,2
+SYLHET-0826,2023-10-16,Robbery,Shahjalal Upashahar,Evening,1,2,Low,2023,10,October,16,Monday,4
+SYLHET-0827,2022-10-21,Fraud,Shahjalal Upashahar,Late Night,1,3,High,2022,10,October,21,Friday,4
+SYLHET-0828,2021-01-21,Robbery,Sunamganj Road,Morning,1,2,Medium,2021,1,January,21,Thursday,1
+SYLHET-0829,2020-12-13,Drug-related,Tilagor,Evening,0,1,Medium,2020,12,December,13,Sunday,4
+SYLHET-0830,2020-07-08,Theft,Pathantula,Afternoon,1,2,Low,2020,7,July,8,Wednesday,3
+SYLHET-0831,2021-05-19,Cybercrime,Sunamganj Road,Late Night,0,1,Medium,2021,5,May,19,Wednesday,2
+SYLHET-0832,2023-04-29,Burglary,Ambarkhana,Morning,0,3,High,2023,4,April,29,Saturday,2
+SYLHET-0833,2024-03-11,Robbery,Jalalabad,Evening,1,1,High,2024,3,March,11,Monday,1
+SYLHET-0834,2023-10-24,Theft,Moglabazar,Night,0,2,Medium,2023,10,October,24,Tuesday,4
+SYLHET-0835,2023-12-03,Theft,Chowhatta,Night,0,4,Low,2023,12,December,3,Sunday,4
+SYLHET-0836,2022-04-03,Assault,Sobhani Ghat,Evening,0,3,Low,2022,4,April,3,Sunday,2
+SYLHET-0837,2022-07-17,Robbery,Moglabazar,Afternoon,0,2,Low,2022,7,July,17,Sunday,3
+SYLHET-0838,2022-07-22,Drug-related,Ambarkhana,Afternoon,1,3,Low,2022,7,July,22,Friday,3
+SYLHET-0839,2023-02-14,Burglary,Tilagor,Afternoon,0,3,Low,2023,2,February,14,Tuesday,1
+SYLHET-0840,2020-05-13,Robbery,Bandar Bazar,Afternoon,1,2,Low,2020,5,May,13,Wednesday,2
+SYLHET-0841,2020-02-27,Assault,Bandar Bazar,Evening,1,2,Low,2020,2,February,27,Thursday,1
+SYLHET-0842,2024-04-28,Fraud,Rikabibazar,Afternoon,1,4,High,2024,4,April,28,Sunday,2
+SYLHET-0843,2021-11-15,Theft,Ambarkhana,Afternoon,0,3,Medium,2021,11,November,15,Monday,4
+SYLHET-0844,2021-11-02,Theft,Rikabibazar,Night,1,3,High,2021,11,November,2,Tuesday,4
+SYLHET-0845,2020-06-21,Theft,Sunamganj Road,Late Night,0,2,Medium,2020,6,June,21,Sunday,2
+SYLHET-0846,2022-03-25,Fraud,Sobhani Ghat,Evening,1,1,Low,2022,3,March,25,Friday,1
+SYLHET-0847,2023-03-18,Fraud,Zinda Bazar,Morning,0,2,Medium,2023,3,March,18,Saturday,1
+SYLHET-0848,2020-03-20,Assault,Moglabazar,Morning,1,3,Low,2020,3,March,20,Friday,1
+SYLHET-0849,2022-06-04,Vandalism,Zinda Bazar,Late Night,1,2,Medium,2022,6,June,4,Saturday,2
+SYLHET-0850,2023-05-21,Drug-related,Tilagor,Afternoon,0,4,Low,2023,5,May,21,Sunday,2
+SYLHET-0851,2020-07-21,Assault,Sunamganj Road,Morning,0,1,High,2020,7,July,21,Tuesday,3
+SYLHET-0852,2022-02-02,Vandalism,Shahjalal Upashahar,Evening,1,2,Low,2022,2,February,2,Wednesday,1
+SYLHET-0853,2023-06-06,Robbery,Moglabazar,Evening,0,4,Low,2023,6,June,6,Tuesday,2
+SYLHET-0854,2024-08-26,Theft,Rikabibazar,Evening,1,3,High,2024,8,August,26,Monday,3
+SYLHET-0855,2023-06-04,Robbery,Shahjalal Upashahar,Afternoon,0,2,Low,2023,6,June,4,Sunday,2
+SYLHET-0856,2024-08-09,Theft,Chowhatta,Morning,0,3,Medium,2024,8,August,9,Friday,3
+SYLHET-0857,2024-04-04,Assault,Sobhani Ghat,Late Night,1,4,Medium,2024,4,April,4,Thursday,2
+SYLHET-0858,2024-01-04,Domestic Violence,Sobhani Ghat,Afternoon,1,3,High,2024,1,January,4,Thursday,1
+SYLHET-0859,2023-11-26,Theft,Bandar Bazar,Night,1,4,High,2023,11,November,26,Sunday,4
+SYLHET-0860,2020-02-16,Theft,Pathantula,Night,0,4,High,2020,2,February,16,Sunday,1
+SYLHET-0861,2023-06-10,Burglary,Moglabazar,Evening,1,4,Low,2023,6,June,10,Saturday,2
+SYLHET-0862,2023-08-21,Domestic Violence,Rikabibazar,Afternoon,0,2,High,2023,8,August,21,Monday,3
+SYLHET-0863,2024-03-29,Robbery,Tilagor,Afternoon,1,3,Medium,2024,3,March,29,Friday,1
+SYLHET-0864,2023-03-12,Assault,Zinda Bazar,Evening,1,3,Medium,2023,3,March,12,Sunday,1
+SYLHET-0865,2023-12-09,Theft,Tilagor,Night,0,1,Low,2023,12,December,9,Saturday,4
+SYLHET-0866,2024-03-16,Theft,Shahjalal Upashahar,Late Night,0,1,Medium,2024,3,March,16,Saturday,1
+SYLHET-0867,2023-10-28,Cybercrime,Shahjalal Upashahar,Morning,0,1,High,2023,10,October,28,Saturday,4
+SYLHET-0868,2024-05-08,Cybercrime,Ambarkhana,Afternoon,1,1,High,2024,5,May,8,Wednesday,2
+SYLHET-0869,2023-07-06,Theft,Chowhatta,Late Night,0,3,Medium,2023,7,July,6,Thursday,3
+SYLHET-0870,2021-10-17,Cybercrime,Moglabazar,Night,1,4,Low,2021,10,October,17,Sunday,4
+SYLHET-0871,2021-04-15,Assault,Sobhani Ghat,Night,0,4,Low,2021,4,April,15,Thursday,2
+SYLHET-0872,2022-08-28,Vandalism,Jalalabad,Afternoon,1,2,High,2022,8,August,28,Sunday,3
+SYLHET-0873,2022-11-01,Burglary,Rikabibazar,Evening,1,4,Medium,2022,11,November,1,Tuesday,4
+SYLHET-0874,2023-09-15,Assault,Tilagor,Night,0,3,Medium,2023,9,September,15,Friday,3
+SYLHET-0875,2022-01-05,Assault,Rikabibazar,Night,0,3,Low,2022,1,January,5,Wednesday,1
+SYLHET-0876,2022-02-22,Fraud,Shahjalal Upashahar,Evening,0,3,Medium,2022,2,February,22,Tuesday,1
+SYLHET-0877,2022-08-25,Theft,Pathantula,Morning,1,2,Medium,2022,8,August,25,Thursday,3
+SYLHET-0878,2020-12-23,Theft,Bandar Bazar,Evening,1,1,High,2020,12,December,23,Wednesday,4
+SYLHET-0879,2022-08-29,Robbery,Zinda Bazar,Afternoon,0,4,Medium,2022,8,August,29,Monday,3
+SYLHET-0880,2023-12-02,Fraud,Chowhatta,Evening,1,3,Low,2023,12,December,2,Saturday,4
+SYLHET-0881,2021-10-29,Robbery,Pathantula,Late Night,0,3,Medium,2021,10,October,29,Friday,4
+SYLHET-0882,2021-01-07,Fraud,Chowhatta,Afternoon,0,1,Low,2021,1,January,7,Thursday,1
+SYLHET-0883,2022-10-28,Cybercrime,Ambarkhana,Night,1,3,High,2022,10,October,28,Friday,4
+SYLHET-0884,2023-02-19,Theft,Jalalabad,Afternoon,0,4,Low,2023,2,February,19,Sunday,1
+SYLHET-0885,2023-10-03,Fraud,Shahjalal Upashahar,Night,0,2,Medium,2023,10,October,3,Tuesday,4
+SYLHET-0886,2021-11-06,Burglary,Bandar Bazar,Late Night,0,3,Low,2021,11,November,6,Saturday,4
+SYLHET-0887,2020-03-30,Vandalism,Moglabazar,Morning,0,4,Medium,2020,3,March,30,Monday,1
+SYLHET-0888,2024-07-29,Theft,Pathantula,Morning,0,3,Medium,2024,7,July,29,Monday,3
+SYLHET-0889,2021-11-28,Fraud,Chowhatta,Evening,0,1,Medium,2021,11,November,28,Sunday,4
+SYLHET-0890,2023-09-01,Vandalism,Sobhani Ghat,Morning,1,3,Low,2023,9,September,1,Friday,3
+SYLHET-0891,2023-04-16,Domestic Violence,Ambarkhana,Night,0,3,Low,2023,4,April,16,Sunday,2
+SYLHET-0892,2021-06-23,Fraud,Sobhani Ghat,Late Night,0,2,Low,2021,6,June,23,Wednesday,2
+SYLHET-0893,2022-01-01,Assault,Bandar Bazar,Evening,0,1,Medium,2022,1,January,1,Saturday,1
+SYLHET-0894,2022-05-18,Assault,Moglabazar,Afternoon,0,1,Low,2022,5,May,18,Wednesday,2
+SYLHET-0895,2020-02-10,Vandalism,Moglabazar,Evening,1,2,Medium,2020,2,February,10,Monday,1
+SYLHET-0896,2022-01-09,Assault,Pathantula,Night,1,3,High,2022,1,January,9,Sunday,1
+SYLHET-0897,2024-09-23,Theft,Rikabibazar,Morning,0,4,High,2024,9,September,23,Monday,3
+SYLHET-0898,2021-05-16,Domestic Violence,Ambarkhana,Evening,1,1,Medium,2021,5,May,16,Sunday,2
+SYLHET-0899,2022-08-16,Fraud,Moglabazar,Evening,0,1,Medium,2022,8,August,16,Tuesday,3
+SYLHET-0900,2023-03-14,Fraud,Moglabazar,Evening,0,3,Low,2023,3,March,14,Tuesday,1
+SYLHET-0901,2023-05-09,Robbery,Pathantula,Afternoon,0,3,Medium,2023,5,May,9,Tuesday,2
+SYLHET-0902,2022-07-17,Fraud,Shahjalal Upashahar,Night,0,1,High,2022,7,July,17,Sunday,3
+SYLHET-0903,2024-10-13,Burglary,Sunamganj Road,Morning,0,3,Low,2024,10,October,13,Sunday,4
+SYLHET-0904,2021-04-05,Fraud,Ambarkhana,Afternoon,1,4,Medium,2021,4,April,5,Monday,2
+SYLHET-0905,2022-01-01,Theft,Sobhani Ghat,Night,0,1,High,2022,1,January,1,Saturday,1
+SYLHET-0906,2022-01-21,Fraud,Bandar Bazar,Night,1,4,High,2022,1,January,21,Friday,1
+SYLHET-0907,2022-07-13,Cybercrime,Moglabazar,Morning,0,4,Low,2022,7,July,13,Wednesday,3
+SYLHET-0908,2022-06-27,Theft,Moglabazar,Afternoon,0,3,Medium,2022,6,June,27,Monday,2
+SYLHET-0909,2024-04-30,Cybercrime,Jalalabad,Afternoon,1,4,Low,2024,4,April,30,Tuesday,2
+SYLHET-0910,2024-04-19,Burglary,Shahjalal Upashahar,Afternoon,0,3,Low,2024,4,April,19,Friday,2
+SYLHET-0911,2023-06-30,Vandalism,Moglabazar,Afternoon,0,2,High,2023,6,June,30,Friday,2
+SYLHET-0912,2021-01-24,Drug-related,Sunamganj Road,Morning,1,3,High,2021,1,January,24,Sunday,1
+SYLHET-0913,2024-06-05,Assault,Jalalabad,Evening,1,4,High,2024,6,June,5,Wednesday,2
+SYLHET-0914,2022-06-01,Fraud,Zinda Bazar,Night,1,2,Low,2022,6,June,1,Wednesday,2
+SYLHET-0915,2020-09-12,Vandalism,Shahjalal Upashahar,Evening,1,3,High,2020,9,September,12,Saturday,3
+SYLHET-0916,2021-12-09,Burglary,Bandar Bazar,Night,1,4,Medium,2021,12,December,9,Thursday,4
+SYLHET-0917,2021-03-25,Robbery,Chowhatta,Morning,1,1,Low,2021,3,March,25,Thursday,1
+SYLHET-0918,2020-01-10,Fraud,Ambarkhana,Late Night,0,1,Medium,2020,1,January,10,Friday,1
+SYLHET-0919,2022-04-03,Drug-related,Pathantula,Night,0,3,Low,2022,4,April,3,Sunday,2
+SYLHET-0920,2022-03-08,Drug-related,Bandar Bazar,Night,0,3,High,2022,3,March,8,Tuesday,1
+SYLHET-0921,2023-06-19,Drug-related,Ambarkhana,Night,0,1,Medium,2023,6,June,19,Monday,2
+SYLHET-0922,2023-06-28,Burglary,Jalalabad,Late Night,1,4,Low,2023,6,June,28,Wednesday,2
+SYLHET-0923,2022-05-26,Drug-related,Rikabibazar,Evening,1,4,Low,2022,5,May,26,Thursday,2
+SYLHET-0924,2022-10-25,Theft,Pathantula,Afternoon,0,4,Low,2022,10,October,25,Tuesday,4
+SYLHET-0925,2023-02-16,Assault,Tilagor,Evening,0,3,Low,2023,2,February,16,Thursday,1
+SYLHET-0926,2022-10-12,Theft,Sobhani Ghat,Night,1,2,Medium,2022,10,October,12,Wednesday,4
+SYLHET-0927,2024-12-29,Robbery,Zinda Bazar,Night,0,2,High,2024,12,December,29,Sunday,4
+SYLHET-0928,2021-01-08,Burglary,Shahjalal Upashahar,Evening,1,2,Low,2021,1,January,8,Friday,1
+SYLHET-0929,2022-12-24,Burglary,Moglabazar,Morning,0,2,Low,2022,12,December,24,Saturday,4
+SYLHET-0930,2020-05-25,Fraud,Rikabibazar,Afternoon,0,2,Medium,2020,5,May,25,Monday,2
+SYLHET-0931,2020-08-11,Burglary,Rikabibazar,Late Night,0,3,High,2020,8,August,11,Tuesday,3
+SYLHET-0932,2023-06-16,Burglary,Bandar Bazar,Evening,0,3,Low,2023,6,June,16,Friday,2
+SYLHET-0933,2020-06-25,Robbery,Zinda Bazar,Evening,1,2,Low,2020,6,June,25,Thursday,2
+SYLHET-0934,2024-12-07,Burglary,Chowhatta,Afternoon,1,3,Medium,2024,12,December,7,Saturday,4
+SYLHET-0935,2022-05-02,Robbery,Ambarkhana,Afternoon,1,3,Low,2022,5,May,2,Monday,2
+SYLHET-0936,2023-07-29,Theft,Ambarkhana,Night,0,2,Low,2023,7,July,29,Saturday,3
+SYLHET-0937,2020-03-03,Assault,Bandar Bazar,Night,0,4,Medium,2020,3,March,3,Tuesday,1
+SYLHET-0938,2023-05-25,Fraud,Sunamganj Road,Night,1,3,Medium,2023,5,May,25,Thursday,2
+SYLHET-0939,2022-04-06,Assault,Sunamganj Road,Evening,1,4,Medium,2022,4,April,6,Wednesday,2
+SYLHET-0940,2022-03-05,Burglary,Moglabazar,Evening,0,3,Medium,2022,3,March,5,Saturday,1
+SYLHET-0941,2021-11-19,Burglary,Tilagor,Afternoon,0,3,Medium,2021,11,November,19,Friday,4
+SYLHET-0942,2024-01-24,Vandalism,Sobhani Ghat,Night,1,2,Low,2024,1,January,24,Wednesday,1
+SYLHET-0943,2024-06-21,Assault,Pathantula,Evening,0,3,Low,2024,6,June,21,Friday,2
+SYLHET-0944,2020-04-14,Assault,Chowhatta,Evening,0,1,Low,2020,4,April,14,Tuesday,2
+SYLHET-0945,2023-01-27,Theft,Moglabazar,Evening,0,1,Low,2023,1,January,27,Friday,1
+SYLHET-0946,2021-05-25,Robbery,Zinda Bazar,Late Night,0,2,Medium,2021,5,May,25,Tuesday,2
+SYLHET-0947,2021-01-19,Burglary,Sunamganj Road,Morning,1,4,High,2021,1,January,19,Tuesday,1
+SYLHET-0948,2021-02-08,Burglary,Tilagor,Night,1,4,High,2021,2,February,8,Monday,1
+SYLHET-0949,2022-04-02,Assault,Tilagor,Afternoon,0,4,Medium,2022,4,April,2,Saturday,2
+SYLHET-0950,2021-06-01,Assault,Bandar Bazar,Evening,0,1,Low,2021,6,June,1,Tuesday,2
+SYLHET-0951,2021-04-20,Assault,Chowhatta,Morning,0,4,Low,2021,4,April,20,Tuesday,2
+SYLHET-0952,2021-12-09,Drug-related,Jalalabad,Afternoon,0,4,High,2021,12,December,9,Thursday,4
+SYLHET-0953,2024-07-26,Drug-related,Pathantula,Evening,0,2,Medium,2024,7,July,26,Friday,3
+SYLHET-0954,2022-02-09,Fraud,Sobhani Ghat,Morning,1,4,Medium,2022,2,February,9,Wednesday,1
+SYLHET-0955,2023-12-31,Cybercrime,Shahjalal Upashahar,Evening,0,1,High,2023,12,December,31,Sunday,4
+SYLHET-0956,2022-11-12,Theft,Bandar Bazar,Late Night,0,1,Medium,2022,11,November,12,Saturday,4
+SYLHET-0957,2022-09-23,Theft,Pathantula,Morning,0,1,High,2022,9,September,23,Friday,3
+SYLHET-0958,2024-05-07,Theft,Shahjalal Upashahar,Night,0,2,Low,2024,5,May,7,Tuesday,2
+SYLHET-0959,2021-11-07,Assault,Shahjalal Upashahar,Evening,0,2,Medium,2021,11,November,7,Sunday,4
+SYLHET-0960,2021-12-14,Domestic Violence,Chowhatta,Night,0,3,High,2021,12,December,14,Tuesday,4
+SYLHET-0961,2024-01-21,Robbery,Chowhatta,Afternoon,1,4,Low,2024,1,January,21,Sunday,1
+SYLHET-0962,2020-03-23,Domestic Violence,Moglabazar,Afternoon,0,2,Medium,2020,3,March,23,Monday,1
+SYLHET-0963,2023-03-14,Theft,Zinda Bazar,Afternoon,0,1,Low,2023,3,March,14,Tuesday,1
+SYLHET-0964,2023-01-13,Domestic Violence,Tilagor,Morning,1,1,High,2023,1,January,13,Friday,1
+SYLHET-0965,2023-01-06,Burglary,Pathantula,Afternoon,1,2,Low,2023,1,January,6,Friday,1
+SYLHET-0966,2021-04-01,Theft,Bandar Bazar,Night,0,2,Medium,2021,4,April,1,Thursday,2
+SYLHET-0967,2020-01-01,Assault,Moglabazar,Night,1,2,Low,2020,1,January,1,Wednesday,1
+SYLHET-0968,2020-02-20,Robbery,Ambarkhana,Night,0,3,Medium,2020,2,February,20,Thursday,1
+SYLHET-0969,2021-11-15,Robbery,Bandar Bazar,Night,0,1,Low,2021,11,November,15,Monday,4
+SYLHET-0970,2021-12-17,Robbery,Zinda Bazar,Morning,0,3,Low,2021,12,December,17,Friday,4
+SYLHET-0971,2024-11-30,Drug-related,Sobhani Ghat,Afternoon,1,3,Medium,2024,11,November,30,Saturday,4
+SYLHET-0972,2024-01-09,Assault,Rikabibazar,Afternoon,1,4,High,2024,1,January,9,Tuesday,1
+SYLHET-0973,2021-03-24,Robbery,Rikabibazar,Afternoon,0,1,Low,2021,3,March,24,Wednesday,1
+SYLHET-0974,2022-05-30,Assault,Tilagor,Evening,0,1,Low,2022,5,May,30,Monday,2
+SYLHET-0975,2021-05-02,Fraud,Rikabibazar,Evening,1,2,High,2021,5,May,2,Sunday,2
+SYLHET-0976,2024-12-28,Robbery,Rikabibazar,Afternoon,0,2,Medium,2024,12,December,28,Saturday,4
+SYLHET-0977,2020-02-03,Burglary,Ambarkhana,Afternoon,0,4,High,2020,2,February,3,Monday,1
+SYLHET-0978,2023-10-03,Theft,Sunamganj Road,Night,1,3,Low,2023,10,October,3,Tuesday,4
+SYLHET-0979,2020-04-04,Theft,Sobhani Ghat,Night,1,2,Medium,2020,4,April,4,Saturday,2
+SYLHET-0980,2022-12-31,Fraud,Chowhatta,Afternoon,1,2,Low,2022,12,December,31,Saturday,4
+SYLHET-0981,2024-04-23,Theft,Shahjalal Upashahar,Late Night,1,1,Low,2024,4,April,23,Tuesday,2
+SYLHET-0982,2020-06-02,Assault,Sunamganj Road,Late Night,0,1,Medium,2020,6,June,2,Tuesday,2
+SYLHET-0983,2020-09-06,Fraud,Bandar Bazar,Afternoon,1,2,Medium,2020,9,September,6,Sunday,3
+SYLHET-0984,2021-11-04,Theft,Bandar Bazar,Afternoon,1,1,High,2021,11,November,4,Thursday,4
+SYLHET-0985,2021-03-13,Assault,Rikabibazar,Evening,0,4,Low,2021,3,March,13,Saturday,1
+SYLHET-0986,2020-04-27,Robbery,Chowhatta,Late Night,0,2,Medium,2020,4,April,27,Monday,2
+SYLHET-0987,2022-02-09,Cybercrime,Zinda Bazar,Night,0,1,Medium,2022,2,February,9,Wednesday,1
+SYLHET-0988,2023-08-22,Assault,Pathantula,Morning,0,4,High,2023,8,August,22,Tuesday,3
+SYLHET-0989,2020-09-24,Drug-related,Sunamganj Road,Afternoon,1,1,Low,2020,9,September,24,Thursday,3
+SYLHET-0990,2022-12-13,Assault,Sunamganj Road,Evening,1,1,Low,2022,12,December,13,Tuesday,4
+SYLHET-0991,2020-08-23,Theft,Jalalabad,Evening,0,1,Low,2020,8,August,23,Sunday,3
+SYLHET-0992,2021-01-23,Assault,Sobhani Ghat,Afternoon,0,2,Medium,2021,1,January,23,Saturday,1
+SYLHET-0993,2022-09-16,Cybercrime,Tilagor,Night,1,3,Low,2022,9,September,16,Friday,3
+SYLHET-0994,2024-10-23,Assault,Sobhani Ghat,Night,0,1,High,2024,10,October,23,Wednesday,4
+SYLHET-0995,2022-02-01,Drug-related,Pathantula,Night,0,4,Low,2022,2,February,1,Tuesday,1
+SYLHET-0996,2021-02-04,Domestic Violence,Bandar Bazar,Night,0,2,High,2021,2,February,4,Thursday,1
+SYLHET-0997,2021-09-15,Robbery,Bandar Bazar,Night,0,2,Low,2021,9,September,15,Wednesday,3
+SYLHET-0998,2022-02-05,Robbery,Bandar Bazar,Evening,0,4,Medium,2022,2,February,5,Saturday,1
+SYLHET-0999,2023-08-19,Assault,Jalalabad,Evening,0,1,High,2023,8,August,19,Saturday,3
+SYLHET-1000,2022-07-07,Burglary,Bandar Bazar,Afternoon,0,3,Low,2022,7,July,7,Thursday,3

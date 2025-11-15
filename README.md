@@ -128,7 +128,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ##  Contact
 
-gmail: nazmulislam20303@hgmail.com
+gmail: nazmulislam20303@gmail.com
 
 ## Acknowledgments
 

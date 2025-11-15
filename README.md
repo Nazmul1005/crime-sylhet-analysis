@@ -6,10 +6,6 @@
 
 ---
 
-# Crime Analysis in Sylhet, Bangladesh 🚨
-
-A comprehensive data science project analyzing crime patterns, trends, and predictions in Sylhet city.
-
 ## Project Overview
 
 This project performs an in-depth analysis of crime data in Sylhet, Bangladesh, including:

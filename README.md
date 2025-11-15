@@ -1,8 +1,6 @@
-# Crime Analysis in Sylhet, Bangladesh - Data Science Project
+# Crime Analysis in Sylhet, Bangladesh 🚨
 
-**Analyzing crime patterns in Sylhet using Python, Machine Learning, and Data Visualization**
-
-🔍 **Keywords**: Crime Analysis Sylhet Bangladesh, Sylhet Crime Data, Data Science Project Bangladesh, Crime Statistics Sylhet, Crime Prediction Bangladesh, Python Crime Analysis, Machine Learning Crime, Data Analytics Sylhet
+A comprehensive data science project analyzing crime patterns, trends, and predictions in Sylhet city.
 
 ---
 
